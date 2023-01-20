@@ -3,7 +3,6 @@
 /public/storage
 /storage/*.key
 /vendor
-/bootstrap/cache
 local.env
 .env
 .env.backup
