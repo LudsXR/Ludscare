@@ -1,0 +1,35 @@
+
+@import "bootstrap/bootstrap.scss";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "../../node_modules/bootstrap/scss/mixins.scss";
+@import "../../node_modules/vue-slick-carousel/dist/vue-slick-carousel-theme.css";
+@import "../../node_modules/vue-slick-carousel/dist/vue-slick-carousel.css";
+
+// Styles
+@import 'global/buttons';
+@import 'global/layout';
+@import 'global/slick';
+@import 'global/form';
+@import 'layout/navbar';
+@import 'layout/footer';
+@import 'pages/signup';
+@import 'pages/hero-section';
+@import 'pages/customerreview';
+@import 'pages/appointment';
+@import 'pages/consultant';
+@import 'pages/mentor';
+@import 'pages/wallet';
+@import 'pages/header';
+@import 'pages/dashboard';
+@import 'pages/viewquestion';
+@import 'pages/whychoose';
+@import 'pages/categories';
+@import 'pages/call';
+@import 'pages/contact';
+@import 'pages/about';
+@import 'components/newsletter';
+@import 'components/blog';
+@import 'components/section';
+

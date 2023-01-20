@@ -1,0 +1,861 @@
+.become-consultant {
+    p {
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+    h3 {
+        font-size: 36px;
+        padding-right: 31%;
+
+        @media screen and (max-width:1399.5px) {
+            padding-right: 10%;
+        }
+    }
+
+    .square-border-img {
+        .border {
+
+            border-width: 4px !important;
+            width: fit-content;
+            margin-bottom: 65px;
+
+            img {
+                position: relative;
+                margin: 31px -54px -35px 37px;
+            }
+        }
+
+    }
+
+    @media screen and (max-width:991px) {
+        .square-border-img {
+            width: 85%;
+        }
+    }
+}
+
+
+.team-consultant {
+    background-image: url('/assets/images/lead-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    .card {
+        .img-wrap {
+            background: #e1e1e1;
+            height: 130px;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                height: 100%;
+                //    max-height: 160px;
+            }
+        }
+
+        .tooltip-wrapper {
+            position: relative;
+        }
+
+        h4 {
+            width: 100%;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .tooltip-wrapper:hover .tooltip {
+            opacity: 1;
+            display: block;
+        }
+
+        .tooltip {
+            background-color: #999da0;
+            position: absolute;
+            top: -27px;
+            font-size: 14px;
+            transition: all 0.25s ease;
+            opacity: 0;
+            display: none;
+            border-radius: 10px;
+        }
+    }
+
+    .head {
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+
+    @media screen and (max-width:1399.5px) {
+        .head {
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+    }
+
+    @media screen and (max-width:992.5px) {
+        .head {
+            padding-left: 0%;
+            padding-right: 0%;
+        }
+    }
+}
+
+.services-section {
+    position: relative;
+    background-color: transparent;
+    z-index: 999;
+    top: -177px;
+    margin-bottom: -77px;
+
+    .border-8 {
+        border-radius: 8px;
+    }
+
+    .bg-img {
+        background: url('/assets/images/search.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .px-c {
+        padding-right: 4rem !important;
+        padding-left: 4rem !important;
+
+        @media screen and (max-width:576.5px) {
+            padding-right: 2rem !important;
+            padding-left: 2rem !important;
+        }
+    }
+
+    .vue-slider-rail {
+        height: 6px !important;
+
+        .vue-slider-dot-handle {
+            border: 3px solid whitesmoke !important;
+        }
+
+        .vue-slider-dot-tooltip-inner {
+            background-color: #f4f4f4 !important;
+            color: $primary;
+
+            &::after {
+                border-top-color: $secondary !important;
+            }
+        }
+
+        .vue-slider-process {
+            background-color: white !important;
+
+            .merge-tooltip {
+                color: $secondary;
+                background-color: #f4f4f4;
+                position: absolute;
+                left: 50%;
+                bottom: 100%;
+                transform: translate(-50%, -15px);
+                font-weight: 700;
+            }
+
+            .vue-slider-dot-tooltip-inner-top {
+                &::after {
+                    border-top-color: white !important;
+                }
+            }
+
+        }
+    }
+
+
+    .form-select {
+
+        height: auto !important;
+        border-radius: 0;
+    }
+
+    .fs-20 {
+        font-size: 20px;
+    }
+
+    .border-white {
+        border-bottom: 1px solid white;
+    }
+
+    .vue-treeselect__value-container {
+        height: 40px !important;
+    }
+
+    .vue-treeselect__placeholder {
+        line-height: 40px;
+    }
+
+    .vue-treeselect__control {
+        border-radius: 0px !important;
+    }
+
+    .vue-treeselect__control-arrow {
+        width: 16px;
+        height: 26px;
+        color: $secondary;
+    }
+
+
+
+    .consultant-services {
+        background: url('/assets/images/call-us-banner.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border-radius: 5px;
+
+        // background-position: center center;
+        i {
+            color: white;
+        }
+
+        span {
+            color: white;
+            font-size: 23px;
+        }
+
+        h4 {
+            color: white;
+            font-size: 34px;
+        }
+
+        h3 {
+            font-size: 32px;
+        }
+
+        @media screen and (max-width:991.5px) {
+            i {
+                color: $secondary;
+            }
+
+            span {
+                color: $secondary;
+            }
+
+            h4 {
+                color: $secondary;
+                font-size: 30px;
+            }
+        }
+
+        @media screen and (max-width:382.5px) {
+            h4 {
+                font-size: 27px;
+            }
+        }
+
+        @media screen and (max-width:360.5px) {
+            h4 {
+                font-size: 21px;
+            }
+        }
+    }
+
+    @media screen and (max-width:991.5px) {
+        .consultant-services {
+            background: url('/assets/images/call-us.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            // background-position: center;
+        }
+    }
+
+}
+
+.top-guiders {
+
+    .head {
+        padding-left: 25% !important;
+        padding-right: 25% !important;
+    }
+
+    .text-light-muted {
+        color: #cbd0d4 !important;
+    }
+
+    @media screen and (max-width:1399.5px) {
+        .head {
+            padding-left: 20% !important;
+            padding-right: 20% !important;
+        }
+    }
+
+    @media screen and (max-width:992.5px) {
+        .head {
+            padding-left: 0% !important;
+            padding-right: 0% !important;
+        }
+    }
+
+    .guider-info {
+        position: relative;
+        top: -30px;
+
+        .card {
+            border-radius: 0;
+            width: 100%;
+
+            i {
+                font-size: 10px;
+            }
+
+            h5,
+            h6 {
+                display: -webkit-box;
+                -webkit-line-clamp: 1;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+        }
+    }
+
+
+
+    .guiders-card {
+        position: relative;
+        overflow: hidden;
+
+        .verified {
+            right: 6px;
+            top: 10px;
+        }
+
+        .guiders-img {
+            background: #e1e1e1;
+            height: 350px;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: start;
+
+            img {
+                width: 100%;
+                // height: auto;
+                // max-height: 350px;
+                transition: transform 1s;
+            }
+        }
+
+        .guiders-content {
+            &::before {
+                transform: scale(1, 1);
+                transition: all 0.2s linear;
+            }
+
+            &::after {
+                transition: all 0.2s linear;
+            }
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding: 45% 10%;
+            text-align: center;
+
+            &:hover {
+                background-color: rgb(32 24 189 / 47%);
+            }
+
+            .title {
+                opacity: 0;
+                transform: translateY(-100px);
+                transition: all 0s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.2s;
+            }
+        }
+
+        &:hover {
+            .guiders-content {
+                &:before {
+                    top: 20px;
+                    left: 20px;
+                }
+
+                &:after {
+                    bottom: 20px;
+                    right: 20px;
+                }
+            }
+
+            .title {
+                opacity: 1;
+                transform: translateY(0);
+
+                &::after {
+                    content: "";
+                    display: block;
+                    width: 50%;
+                    margin: 10px auto;
+                }
+            }
+        }
+    }
+
+
+
+}
+
+.consultant-section {
+    background-image: url('/assets/images/lead-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px !important;
+    padding-top: 125px !important;
+
+    .list-unstyled {
+        .vue-slider {
+            .vue-slider-process {
+                background-color: $primary;
+            }
+
+            .vue-slider-dot-handle {
+                border: 2px solid $primary;
+
+            }
+
+            .vue-slider-dot-tooltip-inner-top {
+                width: fit-content;
+                background: $secondary;
+                margin-top: .25rem;
+
+                &::after {
+                    border-top-color: transparent;
+                }
+
+            }
+        }
+
+    }
+
+    .accordion-button:not(.collapsed)::after {
+        background: none !important;
+        font-family: "Font Awesome 5 Free";
+        content: "\f068";
+        display: inline-block;
+        vertical-align: middle;
+        font-weight: 900;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .accordion-button::after {
+        background: none !important;
+        font-family: "Font Awesome 5 Free";
+        content: "\2b";
+        display: inline-block;
+        vertical-align: middle;
+        font-weight: 900;
+    }
+
+    .accordion {
+
+        // font-family: 'Myriad Pro';
+        button {
+            font-size: 14px !important;
+        }
+
+        .accordion-item {
+            background-color: transparent;
+
+            .accordion-header {
+                a {
+                    width: 90%;
+                }
+
+            }
+
+            .accordion-button {
+                width: fit-content;
+
+                &::after {
+                    display: flex;
+                    align-items: center;
+                }
+            }
+        }
+
+        .accordion-body {
+            font-size: 14px !important;
+        }
+    }
+
+    .accordion-2 {
+        border-radius: 8px;
+    }
+
+    .active {
+        color: $success;
+    }
+
+    .guider-info {
+        position: relative;
+        top: -30px;
+
+        .card {
+            border-radius: 0;
+            width: 100%;
+
+            i {
+                font-size: 10px;
+            }
+
+            h5,
+            h6 {
+                display: -webkit-box;
+                -webkit-line-clamp: 1;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+        }
+    }
+
+    .guiders-card {
+        position: relative;
+        overflow: hidden;
+
+        .verified {
+            right: 6px;
+            top: 10px;
+        }
+
+
+        .guiders-img {
+            background: #e1e1e1;
+            height: 350px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                width: auto;
+                height: auto;
+                max-height: 350px;
+                transition: transform 1s;
+            }
+        }
+
+        .guiders-content {
+            &::before {
+                transform: scale(1, 1);
+                transition: all 0.5s linear;
+            }
+
+            &::after {
+                transition: all 0.5s linear;
+            }
+
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding: 45% 21%;
+            text-align: center;
+
+            &:hover {
+                background-color: rgb(32 24 189 / 47%);
+                ;
+            }
+
+            .title {
+                opacity: 0;
+                transform: translateY(-100px);
+                transition: all 0s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.2s;
+            }
+        }
+
+        &:hover {
+            .guiders-content {
+                &:before {
+                    top: 20px;
+                    left: 20px;
+                }
+
+                &:after {
+                    bottom: 20px;
+                    right: 20px;
+                }
+            }
+
+            .title {
+                opacity: 1;
+                transform: translateY(0);
+
+                &::after {
+                    content: "";
+                    display: block;
+                    width: 50%;
+                    margin: 10px auto;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width:767.5px) {
+        .row {
+            &.h-100 {
+                height: auto !important;
+            }
+        }
+    }
+
+}
+
+.consultant-profile {
+    font-family: "Poppins", sans-serif;
+
+    ::-webkit-scrollbar {
+        width: 6px !important;
+    }
+
+    ::-webkit-scrollbar-track {
+        border-radius: 10px !important;
+        background-color: #e9e3e3 !important;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        -webkit-border-radius: 10px !important;
+        border-radius: 20px !important;
+        background: $primary !important;
+    }
+
+
+    @media screen and (min-width:991.5px) {
+        .scroll-detail {
+            height: 280px;
+            overflow-y: scroll;
+        }
+    }
+
+    span {
+        font-size: 14px;
+    }
+
+    .border-end-c {
+        border-right: 2px solid #c5c5c5;
+        height: 310px;
+    }
+
+    .shape {
+        height: 200px;
+        width: 200px;
+        background: $secondary;
+        position: absolute;
+        top: -30px;
+        right: 11px;
+    }
+
+    .profile-img {
+        z-index: 1;
+
+        .img-wrap {
+            height: 417px;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: start;
+            background-color: #e1e1e1;
+
+            img {
+                // height: auto;
+                width: 100%;
+                // max-height: 417px;
+            }
+        }
+    }
+
+    @media screen and (max-width:991.5px) {
+        .border-end-c {
+            border-right: 2px solid transparent;
+        }
+
+        .profile-img {
+
+            .img-wrap {
+                min-height: auto;
+                height: 350px;
+
+                img {
+                    height: 350px;
+                }
+            }
+        }
+
+    }
+
+
+}
+
+.profile-info {
+    position: relative;
+    top: -160px;
+    margin-bottom: -160px;
+    z-index: 0;
+
+    i {
+        color: #7071ad;
+        font-size: 45px;
+    }
+
+    span {
+        font-weight: 500;
+    }
+
+    // @media screen and (max-width:1399.5px) {
+    //     position: relative;
+    //     top: -225px;
+    //     margin-bottom: -225px;
+    //     z-index: 0;
+    // }
+
+
+    // @media screen and (max-width:1199.5px) {
+    //     position: relative;
+    //     top: -100px;
+    //     margin-bottom: -100px;
+    //     z-index: 0;
+    // }
+
+    @media screen and (max-width:991.5px) {
+        position: relative;
+        top: 0px;
+        margin-bottom: 0px;
+        z-index: 0;
+    }
+
+}
+
+.about-profile {
+    background-image: url('/assets/images/lead-background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 360px;
+    // padding-bottom: 200px;
+}
+
+
+// @media screen and (max-width:576.5px) {
+//     .consultant-section{
+//         padding-bottom: 239px !important;
+//     }
+// }
+
+
+.search-section {
+    position: relative;
+    top: 231px;
+    margin-top: -111px;
+    border-radius: 5px;
+
+    p {
+        font-size: 15px;
+    }
+
+    .border-8 {
+        border-radius: 8px;
+    }
+
+    .bg-img {
+        background: url('/assets/images/search.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .px-c {
+        padding-right: 4rem !important;
+        padding-left: 4rem !important;
+
+        @media screen and (max-width:576.5px) {
+            padding-right: 2rem !important;
+            padding-left: 2rem !important;
+        }
+    }
+
+    .vue-slider-rail {
+        height: 6px !important;
+
+        .vue-slider-dot-handle {
+            border: 3px solid whitesmoke !important;
+        }
+
+        .vue-slider-dot-tooltip-inner {
+            background-color: #f4f4f4 !important;
+            color: $primary;
+
+            &::after {
+                border-top-color: $secondary !important;
+            }
+        }
+
+        .vue-slider-process {
+            background-color: white !important;
+
+            .merge-tooltip {
+                color: $secondary;
+                background-color: #f4f4f4;
+                position: absolute;
+                left: 50%;
+                bottom: 100%;
+                transform: translate(-50%, -15px);
+                font-weight: 700;
+            }
+
+            .vue-slider-dot-tooltip-inner-top {
+                &::after {
+                    border-top-color: white !important;
+                }
+            }
+
+        }
+    }
+
+
+    .form-select {
+
+        height: auto !important;
+        border-radius: 0;
+    }
+
+    .fs-20 {
+        font-size: 20px;
+    }
+
+    .border-white {
+        border-bottom: 1px solid white;
+    }
+
+    .vue-treeselect__value-container {
+        height: 40px !important;
+    }
+
+    .vue-treeselect__placeholder {
+        line-height: 40px;
+    }
+
+    .vue-treeselect__control {
+        border-radius: 0px !important;
+    }
+
+    .vue-treeselect__control-arrow {
+        width: 16px;
+        height: 26px;
+        color: $secondary;
+    }
+
+
+}

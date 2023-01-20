@@ -1,0 +1,63 @@
+.wallet{
+    background: url('/assets/images/audio-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px !important;
+    label{
+        width: fit-content;
+    }
+    .search-icon{
+        i{
+            position: absolute;
+            top: -27px;
+            right: 13px;
+        }
+    }
+    p{
+        font-size: 18px;
+    }
+    span{
+        font-size:26.4px;
+    }
+
+    .head{
+        font-size: 18px;
+    }
+
+    table{
+        font-weight: 500;
+    }
+
+    /* HIDE RADIO */
+    [type=radio] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+    /* IMAGE STYLES */
+    [type=radio]+img {
+        cursor: pointer;
+        border: 2px solid #dee2e6;
+        border-radius: 5px;
+    }
+
+    /* CHECKED STYLES */
+    [type=radio]:checked+img {
+        border: 2px solid $secondary !important;
+    }
+}
+
+@media screen and (max-width:576.5px) {
+    .wallet{
+        padding-bottom: 239px !important;
+    }
+}
+
+@media screen and (max-width: 371.5px){
+    .wallet{
+        padding-bottom: 260px !important;
+    }
+}

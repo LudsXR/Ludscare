@@ -1,0 +1,1039 @@
+{
+    "company_name":{
+        "title":"পরামর্শ সংস্থা স্বাগতম"
+    },
+
+    "banner_section": {
+        "main":"আমরা",
+        "heading1": " পেশাদার ব্যবসা স্পিকার",
+        "heading2": " পেশাদার এমবিবিএস ডাক্তার",
+        "heading3": " প্রফেশনাল হ্যান্ডিম্যান",
+        "paragraph": "আমরা সেই সম্পর্কগুলি গড়ে তুলি যা আপনার প্রতিষ্ঠানের বৃদ্ধির পরবর্তী পর্যায়ের উপর ভিত্তি করে",
+        "button": "এবার শুরু করা যাক"
+    },
+
+    "contact_label": {
+        "heading": "আপনার কি পরামর্শ পরিষেবা দরকার",
+        "sub_heading": "এখনই আমাদের ফোন দেন",
+        "paragraph": "ব্যবসার কার্যকর ব্যবস্থা তৈরিতে সহায়তা করুন।"
+    },
+
+    "we_will_section": {
+        "heading": "আমরা আপনাকে আপনার সাফল্যের দিকে নিয়ে যাব",
+        "paragraph": "আমাদের পরিষেবা সেই কাজগুলি গ্রহণ করে যা কম্পিউটারগুলি সবচেয়ে ভাল করে৷"
+    },
+
+    "consultant_type_section": {
+        "type_1": "ধর্মীয়",
+        "type_2": "আধ্যাত্মিক",
+        "type_3": "চিকিৎসা",
+        "type_4": "শিক্ষা",
+        "type_5": "কর্মজীবন",
+        "type_6": "আইনি",
+        "type_7": "সামাজিক",
+        "type_8": "সাংস্কৃতিক",
+        "type_9": "মেরামত ও রক্ষণাবেক্ষণ",
+        "type_10": "হোম ডেলিভারি",
+        "type_11": "অর্থনৈতিক সেবা সমূহ",
+        "type_12": "ভ্রমণ",
+        "type_13": "ই-কমার্স",
+        "type_14": "সম্পদ ব্যবস্থাপনা",
+        "type_15": "মার্কেটিং",
+        "type_16": "ব্যবসা",
+        "type_18": "ডিজিটাল সেবা",
+        "type_19": "অটো-মোবাইল",
+        "type_20": "সেবা",
+        "type_21": "আনঅ্যাসাইন করুন   "
+    },
+
+    "banner_why_section": {
+        "main":"নিকটাস পরিবার",
+        "heading": "কেন আপনি নিকটাস পরিবার নির্বাচন করুন",
+        "paragraph": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem fugit dolorem quo tempora suscipit animi reiciendis, impedit adipisci ipsa exercitationem labore pariatur omnis voluptatibus. Quidem quod eaque animi eius explicabo.",
+        "heading1": "12,000+ যাচাইকৃত বিশেষজ্ঞ",
+        "heading2": "প্রতিটি প্রশ্ন অর্থ সাশ্রয় করে",
+        "heading3": "আপনার জন্য উপযোগী পরিষেবা",
+        "heading4": "বাড়িতে মূল্যবান সময় সংরক্ষণ করুন"
+    },
+
+    "here_are_section": {
+        "heading": "এখানে আমাদের শীর্ষস্থানীয় সাফল্যের নির্দেশক রয়েছে",
+        "paragraph": "আপনি আপনার প্রশ্ন সম্পর্কে সেরা পরামর্শ পরিষেবা পেতে পারেন",
+        "sub_heading":"গাইড",
+        "main":"সাফল্য"
+    },
+
+    "banner_how_to_book_section": {
+        "heading": "কিভাবে মোবাইল অ্যাপের মাধ্যমে অ্যাপয়েন্টমেন্ট বুক করবেন",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique minus ex natus, nihil architecto sequi a reiciendis delectus quae, in qui. Dolore blanditiis tenetur porro rem dicta debitis vero officia.",
+        "button_1": "এটা গুগল প্লে তে পাবেন",
+        "button_2": "অ্যাপ স্টোরে এটি পান"
+    },
+
+    "banner_meet_the_people": {
+        "sub_text":"সুখী",
+        "sub_text1":"সেবা",
+        "sub_text2":"আমাদের সাথে",
+        "heading": "আমাদের পরিষেবা নিয়ে খুশি যারা তাদের সাথে দেখা করুন",
+        "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. In facilis ipsa necessitatibus, rem sapiente nisi quisquam nostrum molestias consectetur et exercitationem fuga quibusdam nulla ut, iusto dolorum aliquam. Doloremque, porro."
+    },
+
+    "banner_become_consultant": {
+        "heading": "কিভাবে  হবে",
+        "paragraph_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo voluptatum voluptate corrupti, maiores illo odit, architecto nisi fugiat assumenda maxime esse nihil quod dolore consectetur tempora veritatis expedita dolorum.",
+        "paragraph_2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga molestiae, porro vel explicabo maxime voluptate facilis corrupti natus quibusdam in aut sequi qui recusandae iste repellendus enim. Cumque, odio magnam.",
+        "button": "একটি ভিডিও দেখুন",
+        "sub_heading":"পরামর্শদাতা"
+    },
+
+    "banner_payment_method": {
+        "main":" আমাদের ব্যবহার আছে",
+        "heading": "পেমেন্ট পদ্ধতি কি আমরা ব্যবহার করেছি",
+        "paragraph_1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error nemo voluptatum voluptate corrupti, maiores illo odit, architecto nisi fugiat assumenda maxime esse nihil quod dolore consectetur tempora veritatis expedita dolorum."
+    },
+
+    "banner_see_our": {
+        "heading": "আমাদের সর্বশেষ খবর এবং ব্লগ দেখুন",
+        "paragraph": "আমাদের পরিষেবা সেই কাজগুলি গ্রহণ করে যা কম্পিউটারগুলি সবচেয়ে ভাল করে৷",
+        "sub_heading":"খবর",
+        "sub_heading1":"ব্লগ",
+        "by" : "দ্বারা:"
+    },
+
+    "newsletter_section": {
+        "heading": "নিউজলেটার সদস্যতা",
+        "sub_heading": "আপনার ইনবক্সে সরাসরি বিতরণ করা সর্বশেষ খবর, আপডেট এবং বিশেষ অফার পেতে আমাদের সদস্যতা তালিকায় যোগ দিন",
+        "text_placeholder": "তুমার ইমেইল প্রবেশ করাও"
+    },
+
+    "about_us_section": {
+        "heading": "আমাদের সম্পর্কে",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae iste voluptatem, quia reprehenderit ab, quos ipsum eligendi neque similique iusto illum nemo quo ad aliquid aliquam amet nesciunt blanditiis totam!"
+    },
+
+    "overview_section": {
+        "heading": "ওভারভিউ",
+        "heading1": "বাড়ি",
+        "heading2": "আমাদের সেবাসমূহ",
+        "heading3": "আমাদের ব্লগ",
+        "heading4": "যোগাযোগ করুন",
+        "heading45": "আমাদের সম্পর্কে"
+    },
+
+    "services_section": {
+        "heading": "সেবা",
+        "heading1": "বীমা পরামর্শ",
+        "heading2": "আর্থিক পরামর্শ",
+        "heading3": "ইনভেস্টমেন্ট ট্রেডিং",
+        "heading4": "আর্থিক বিশ্লেষণ",
+        "heading5": "উত্পাদন গাছপালা"
+    },
+
+    "useful_links_section": {
+        "heading": "দরকারী লিংক",
+        "heading1": "কাজের সুযোগ",
+        "heading2": "সহায়তা কেন্দ্র",
+        "heading3": "মূল্য পরিকল্পনা",
+        "heading4": "সহায়তা কেন্দ্র",
+        "heading5": "গ্যালারি"
+    },
+
+    "contact_information_section": {
+        "heading": "যোগাযোগের তথ্য",
+        "heading1": "234 Sample Ave. Sampling.FL USA 2345",
+        "heading2": "(800) 123-6789",
+        "heading3": "info@info.com"
+    },
+
+    "categories_banner_section": {
+        "heading": "আপনার প্রিয় বিভাগ খুঁজুন",
+        "paragraph": "আমরা সেই সম্পর্কগুলি গড়ে তুলি যা আপনার প্রতিষ্ঠানের বৃদ্ধির পরবর্তী ধাপে ভিত্তি করে।"
+    },
+
+    "categories_label_section": {
+        "heading": "আপনার প্রিয় বিষয় অনুসন্ধান করুন",
+        "sub_heading": "ব্যবসার কার্যকর ব্যবস্থা তৈরিতে সহায়তা করুন।",
+        "place_holder": "অনুসন্ধান করুন"
+    },
+
+    "categories_sidebar_section":{
+        "filter":"ছাঁকনি",
+        "price":"দাম",
+        "clear":"পরিষ্কার",
+        "apply":"আবেদন করুন"
+    },
+
+    "categories_banner_view": {
+        "heading": "আপনার বিষয় সম্পর্কিত উত্তর ও প্রশ্ন দেখুন",
+        "sub_heading": "আমাদের পরিষেবা কম্পিউটারের সবচেয়ে ভালো কাজ করে",
+        "question_1": "প্রায়শই জিজ্ঞাসিত প্রশ্ন #1",
+        "answer_1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae numquam architecto laborum provident tenetur dolores, eos quidem iste aperiam ad cum odit deserunt delectus ab deleniti magni recusandae, quam quia.",
+        "question_2": "প্রায়শই জিজ্ঞাসিত প্রশ্ন #2",
+        "answer_2": "This is the second item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+        "question_3": "প্রায়শই জিজ্ঞাসিত প্রশ্ন #3",
+        "answer_3": "This is the third item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow."
+    },
+
+    "categories_banner_dont_find": {
+        "heading": "একটি উত্তর খুঁজে না",
+        "sub_heading": "আমাদের পরিষেবা কম্পিউটারের সবচেয়ে ভালো কাজ করে",
+        "button": "যোগাযোগ করুন"
+    },
+
+    "blog_banner_section": {
+        "heading": "আমাদের সর্বশেষ খবর এবং ব্লগ",
+        "paragraph": "আমরা সেই সম্পর্কগুলি গড়ে তুলি যা আপনার প্রতিষ্ঠানের বৃদ্ধির পরবর্তী ধাপে ভিত্তি করে।"
+    },
+
+    "about_banner_section": {
+        "heading": "আমাদের সম্পর্কে",
+        "paragraph": "আমরা সেই সম্পর্কগুলি গড়ে তুলি যা আপনার প্রতিষ্ঠানের বৃদ্ধির পরবর্তী ধাপে ভিত্তি করে।"
+    },
+
+    "about_our_agency_section": {
+        "heading": "আমাদের সংস্থা সম্পর্কে",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading":"এজেন্সি"
+    },
+
+    "about_why_choose_section": {
+        "heading": "কেন আমাদের নির্বাচন করেছে",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "heading_1": "বিক্রয় মনিটরিং",
+        "paragraph_1": "সেলস মনিটরিং সিস্টেম হল একটি কোম্পানী কিভাবে বিক্রয় হয় তার উপর নজর রাখার একটি মাধ্যম",
+        "heading_2": "ব্যবসায়িক বুদ্ধি",
+        "paragraph_2": "বিজনেস ইন্টেলিজেন্স সিস্টেম হল একটি কোম্পানী কিভাবে বিক্রি হয় তার উপর নজর রাখার একটি মাধ্যম",
+        "heading_3": "সবসময় ঝামেলা মুক্ত",
+        "paragraph_3": "আমরা ব্যক্তি এবং ব্যবসার নিয়মিত অর্থ প্রদানের সুরক্ষার জন্য বিভিন্ন নীতি প্রদান করি"
+    },
+
+    "about_our_mission_section": {
+        "heading": "আমাদের লক্ষ্য",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading":"মিশন"
+    },
+
+    "contact_banner_section": {
+        "heading": "যোগাযোগ করুন",
+        "paragraph": "আমরা সেই সম্পর্কগুলি গড়ে তুলি যা আপনার প্রতিষ্ঠানের বৃদ্ধির পরবর্তী ধাপে ভিত্তি করে।"
+    },
+
+    "contact_us_section": {
+        "heading": "যোগাযোগ করুন",
+        "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "paragraph_2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum",
+        "sub_heading":"আমাদের"
+    },
+
+    "contact_get_in_section": {
+        "heading": "যোগাযোগ করুন",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.",
+        "sub_heading":"স্পর্শ"
+    },
+
+    "contact_form_section": {
+        "title_1": "তোমার নাম",
+        "place_holder_1": "আপনার নাম প্রবেশ করুন",
+        "title_2": "তোমার ইমেইল",
+        "place_holder_2": "তোমার ই - মেইল ​​ঠিকানা লেখো",
+        "title_3": "বিষয়",
+        "place_holder_3": "আপনার বিষয় লিখুন",
+        "title_4": "তোমার বার্তা",
+        "place_holder_4": "আপনার মেসেজ লিখুন",
+        "button": "বার্তা জমা দিন"
+    },
+
+    "login_form_section": {
+        "button_1": "একজন ব্যবহারকারী হিসেবে",
+        "button_2": "একজন পরামর্শক হিসেবে",
+        "label_1": "এখানে ইমেইল ঠিকানা",
+        "label_2": "পাসওয়ার্ড",
+        "label_3": "পাসওয়ার্ড ভুলে গেছেন?",
+        "button_3": "সাইন ইন করুন",
+        "label_4": "একটি অ্যাকাউন্ট নেই?",
+        "label_5": "নিবন্ধন করুন",
+        "label_6": "অথবা সোশ্যাল মিডিয়া দিয়ে সাইন ইন করুন"
+    },
+
+    "signup_form_section": {
+        "button_1": "একজন ব্যবহারকারী হিসেবে",
+        "button_2": "একজন পরামর্শক হিসেবে",
+        "label_1": "এখানে প্রথম নাম",
+        "label_2": "এখানে শেষ নাম",
+        "label_3": "এখানে ইমেইল ঠিকানা",
+        "label_4": "পাসওয়ার্ড",
+        "label_5": "পুনরাবৃত্তি পাসওয়ার্ড",
+        "button_3": "নিবন্ধন করুন",
+        "label_6": "ইতিমধ্যে একটি সদস্যপদ আছে?",
+        "label_7": "সাইন ইন করুন",
+        "label_8": "অথবা সামাজিক মিডিয়া দিয়ে সাইন আপ করুন",
+        "label_9": "নিবন্ধন করুন"
+    },
+
+    "mentee_profile_main": {
+        "main": "স্বাগত",
+        "picture": "ফাইল আপলোড করুন",
+        "visible": "প্রোফাইল দৃশ্যমানতা",
+        "label_1": "নামের প্রথম অংশ",
+        "label_2": "নামের শেষাংশ",
+        "label_3": "লিঙ্গ",
+        "label_31": "লিঙ্গ",
+        "label_32": "পুরুষ",
+        "label_33": "মহিলা",
+        "label_4": "দেশ",
+        "label_5": "শহর",
+        "label_6": "ইমেইল",
+
+        "button": "হালনাগাদ"
+    },
+
+    "mentee_profile_menu": {
+        "profile": "প্রোফাইল",
+        "appointment": "অ্যাপয়েন্টমেন্ট লগ",
+        "wallet": "ওয়ালেট",
+        "logout": "প্রস্থান"
+    },
+
+    "mentee_chat": {
+        "placeholder_1": "এখানে লিখুন..."
+    },
+
+    "welcome_text": "Welcome to consultancy agency",
+    "subscribe_newsletter": {
+        "main_title": "আমাদের নিউজলেটার সদস্যতা",
+        "sub_heading": "আপনি ডিসকাউন্ট এবং সাপ্তাহিক আপডেটের জন্য আমাদের নিউজলেটার সদস্যতা নিতে পারেন.",
+        "fields": {
+            "placeholder": "এখানে ইমেইল লিখুন",
+            "btn_label": "জমা দিন"
+        }
+    },
+    "payment_partner": {
+        "main_title": "আমাদের পেমেন্ট পার্টনার",
+        "sub_heading": "আপনি পছন্দ অনুযায়ী নিম্নলিখিত পেমেন্ট পদ্ধতি ব্যবহার করতে পারেন।"
+    },
+    "homepage": {
+        "hero_section": {
+            "main_title": "আপনার প্রয়োজনীয় পরামর্শমূলক পরিষেবাগুলি খুঁজুন - দ্রুত",
+            "sub_heading": "চাহিদা অনুযায়ী অভিজাত দক্ষতা",
+            "lorem_ipsum": "",
+            "btn_create_account": "একটি অ্যাকাউন্ট তৈরি করুন",
+            "day": {
+                "label": "Book appointment",
+                "sub_heading": "আপনি শুধুমাত্র একটি ক্লিকে আপনার অ্যাপয়েন্টমেন্ট বুক করতে পারেন।"
+            }
+        },
+        "category_section": {
+            "main_title": "সবচেয়ে প্রিয় বিষয়",
+            "sub_heading": "আমরা নিম্নলিখিত বিভাগগুলির বিষয়ে বিস্তৃত পরামর্শ প্রদান করছি",
+            "view_all_btn": "সমস্ত বিভাগ দেখুন"
+        },
+        "top_consultants": {
+            "main_title": "শীর্ষ পরামর্শদাতা এখানে আছে",
+            "sub_heading": "আপনাকে আপনার দ্বিধা এবং জটিলতার সমাধান প্রদান করতে।",
+            "btn_label": "সমস্ত পরামর্শদাতা দেখুন"
+        },
+        "become_consultant": {
+            "main_title": "কিভাবে কনসালটেন্ট হতে হয়",
+            "sub_heading": "একজন পরামর্শদাতা হিসাবে নিজেকে নিবন্ধন করার জন্য এখানে সহজ 4টি ধাপ রয়েছে।",
+            "btn_label": "ইউটিউবে দেখুন",
+            "steps": {
+                "step1": {
+                    "main_title": "স্টেপ 1",
+                    "sub_heading": "আপনার সাধারণ তথ্য লিখুন"
+                },
+                "step2": {
+                    "main_title": "স্টেপ 2",
+                    "sub_heading": "আপনার শিক্ষা এবং অভিজ্ঞতার প্রমাণপত্র লিখুন"
+                },
+                "step3": {
+                    "main_title": "স্টেপ 3",
+                    "sub_heading": "আপনার দক্ষতা এবং দক্ষতার ক্ষেত্র সম্পর্কে লিখুন"
+                },
+                "step4": {
+                    "main_title": "স্টেপ 4",
+                    "sub_heading": "আপনার প্রাপ্যতার সময়সূচী, পরামর্শের মোড (অডিও, ভিডিও এবং চ্যাট) এবং আপনার চার্জ সেট করুন।"
+                }
+            }
+        }
+    },
+    "all_categories": {
+        "main_title": "সব ধরনের",
+        "sub_heading": "আমরা আপনার পরামর্শদাতার সাথে পরামর্শ করার জন্য বিস্তৃত বিভাগ প্রদান করছি; আমরা সমস্ত বিভাগগুলিকে সংক্ষিপ্ত করার চেষ্টা করেছি যেখানে আপনি তাদের ক্ষেত্রের বিশেষজ্ঞদের সাথে আপনার সমস্যাগুলি নিয়ে আলোচনা করতে পারেন৷ তারা আপনাকে সর্বোত্তম উপায়ে গাইড করবে.",
+        "fields": {
+            "placeholder": "এখানে আপনার কীওয়ার্ড লিখুন",
+            "btn_label": "অনুসন্ধান করুন"
+        }
+    },
+    "aboutus": {
+        "section1": {
+            "title": "আমাদের সম্পর্কে",
+            "paragraph_text1": "মাশভরা একটি মানব যত্ন, পরামর্শমূলক প্ল্যাটফর্ম এবং একটি সমাধান কেন্দ্র যা চিকিৎসা, আধ্যাত্মিক, ধর্মীয়, কর্পোরেট, আর্থিক, শারীরিক, সামাজিক, শিক্ষাবিদ, পেশা, আইনি, সাংস্কৃতিক, ভ্রমণ এবং যেকোনো বিষয়ে জীবনের প্রতিটি ক্ষেত্রের বিশেষজ্ঞদের বুক করার অনুমতি দেয়। বিশ্বব্যাপী অন্যান্য বিশেষজ্ঞ/পরামর্শদাতা/বিশেষজ্ঞ/পরামর্শদাতারা কয়েক সেকেন্ডের মধ্যে পরামর্শের প্রয়োজনীয়তা সম্পর্কিত তথ্য প্রদান করে, সমাধানের বিধানের জন্য পেশাদারদের সাথে নির্ভরযোগ্য এবং সুরক্ষিত ভার্চুয়াল সংযোগ 24/7 ব্যবহার করে। সহজ এবং ব্যবহারকারী-বান্ধব পেমেন্ট পদ্ধতি ব্যবহার করা হয়।",
+            "paragraph_text2": ""
+        },
+        "section2": {
+            "title": "কেন আমাদের নির্বাচন করেছে",
+            "paragraph_text1": "মাশভরা হল একটি প্ল্যাটফর্ম যা মেন্টিদের (যাদের পরামর্শ প্রয়োজন) তাদের পরামর্শদাতাদের (পরামর্শদাতাদের) সাথে দেখা করতে এবং তাদের জটিলতা এবং সমস্যাগুলি নিয়ে আলোচনা করতে  আমরা জীবনের প্রায় সব ফ্যাক্টর কভার করছি যেমন; চিকিৎসা, শিক্ষা, খাদ্য, ব্যবসা, সাংস্কৃতিক, শারীরবৃত্তীয় সমস্যা, সিভিল, ইঞ্জিনিয়ার, জীবন শৈলী, ফ্যাশন, ক্যারিয়ার এবং আরও অনেক কিছু। Mentee পরামর্শদাতার প্রোফাইল চেক করতে পারেন, অ্যাপয়েন্টমেন্ট বুক করতে পারেন এবং সমস্যা সম্পর্কিত আলোচনা করতে পারেন। যোগাযোগের তিনটি মোড (চ্যাট, অডিও এবং ভিডিও কল) মাশভ্রায় উপলব্ধ। ঝামেলা এড়াতে সহজ পেমেন্ট পদ্ধতি উপলব্ধ।",
+            "paragraph_text2": ""
+        },
+        "section3": {
+            "title": "আমাদের লক্ষ্য",
+            "paragraph_text1": "আমাদের লক্ষ্য হল সেই সমস্ত লোকদের জন্য সুবিধা প্রদান করা যাদের সময় নেই বা অন্যান্য সমস্যার কারণে তারা সংশ্লিষ্ট ব্যক্তির কাছে যেতে বা যেতে পারে না। মাশভরা শুধুমাত্র একটি ক্লিকেই পরামর্শের সুবিধা প্রদান করছে। আজ ডিজিটালাইজেশনের যুগ এবং বেশিরভাগ মানুষ প্রতিদিনের চক্রে পরিশ্রমী। তারাও সমস্যার সম্মুখীন হচ্ছেন, তাই তাদের বিশেষায়িত ব্যক্তির সাথে পরামর্শ করতে হবে। মাশভরা তাদের সেই প্ল্যাটফর্ম সরবরাহ করছে যেখানে তারা তাদের সমস্যার বিষয়ে প্রতিটি সমাধান খুঁজে পেতে পারে।",
+            "paragraph_text2": ""
+        }
+    },
+    "blogs": {
+        "title": "ব্লগ",
+        "sub_heading": "আপনি এখানে শীর্ষ গবেষণা এবং সেরা ব্লগ খুঁজে পেতে পারেন.",
+        "btn_label": "আরও পড়ুন",
+        "top_posts": "শীর্ষ পোস্ট"
+    },
+    "contact": {
+        "section": {
+            "title": "যোগাযোগ করুন",
+            "paragraph_text1": "আপনি নিম্নলিখিত সংস্থানগুলিতে আমাদের সাথে যোগাযোগ করতে পারেন। আপনি পরিষেবা সম্পর্কে প্রতিক্রিয়া লিখতে পারেন এবং যেকোনো পরামর্শ সম্পর্কেও লিখতে পারেন। আমরা 24/7 প্রতিক্রিয়াশীল.",
+            "paragraph_text2": "..."
+        },
+        "call_us": {
+            "title": "আমাদের কল করুন",
+            "sub_heading": "...",
+            "number": "03228907654"
+        },
+        "email_us": {
+            "title": "আমাদেরকে ইমেইল করুন",
+            "sub_heading": "...",
+            "email": "info@mashvra.com"
+        },
+        "address": {
+            "title": "ঠিকানা",
+            "sub_heading": "...",
+            "address": "D ground, Faisalabad"
+        }
+    },
+    "appointment_log": {
+        "main_title": "অ্যাপয়েন্টমেন্ট লগ",
+        "label_1": "মুলতুবি নিয়োগ",
+        "label_2": "গৃহীত অ্যাপয়েন্টমেন্ট",
+        "label_3": "বাতিল করা অ্যাপয়েন্টমেন্ট",
+        "label_4": "সমাপ্ত নিয়োগ",
+        "sub_heading": "---",
+        "tab": {
+            "pending": {
+                "label": "বিচারাধীন",
+                "search": {
+                    "label": "অনুসন্ধান করুন",
+                    "placeholder": "এখানে লিখুন..."
+                },
+                "column": {
+                    "question": "প্রশ্ন",
+                    "consultant": "পরামর্শদাতা",
+                    "appointment_no": "নিয়োগ নং",
+                    "name": "নাম",
+                    "date": "তারিখ",
+                    "time": "সময়",
+                    "type": "টাইপ",
+                    "amount": "পরিমাণ",
+                    "p_Status": "পি-স্ট্যাটাস",
+                    "status": "স্ট্যাটাস",
+                    "action": "কর্ম",
+                    "price_symbol": "রুপি",
+                    "paid_text": "পেড",
+                    "unpaid_text": "আন পেইড",
+                    "appointment_status": {
+                        "pending": "বিচারাধীন",
+                        "accepted": "গৃহীত",
+                        "completed": "সম্পন্ন",
+                        "cancel": "বাতিল করুন"
+                    }
+                },
+                "button": {
+                    "view_details": "বিস্তারিত দেখুন",
+                    "accept": "গ্রহণ করুন",
+                    "reject": "প্রত্যাখ্যান করুন",
+                    "download_invoice": "চালান ডাউনলোড করুন"
+                },
+                "appointment_info": {
+                    "heading": "অ্যাপয়েন্টমেন্ট তথ্য",
+                    "date": " তারিখ",
+                    "question": "প্রশ্ন",
+                    "time": "সময়",
+                    "appointment_no": "নিয়োগ নং",
+                    "appointment_type": "অ্যাপয়েন্টমেন্টের ধরন",
+                    "status": "স্ট্যাটাস",
+                    "attachment": "সংযুক্তি"
+                }
+            },
+            "all_appointments": {
+                "label": "সমস্ত অ্যাপয়েন্টমেন্ট",
+                "search": {
+                    "label": "অনুসন্ধান করুন",
+                    "placeholder": "এখানে লিখুন..."
+                },
+                "filter_by": {
+                    "lable": "দ্বারা ফিল্টার করুন",
+                    "select_status": "স্থিতি নির্বাচন করুন",
+                    "pending": "বিচারাধীন",
+                    "accepted": "গৃহীত",
+                    "completed": "সম্পন্ন",
+                    "cancel": "বাতিল করুন"
+                },
+                "column": {
+                    "question": "প্রশ্ন",
+                    "consultant": "পরামর্শদাতা",
+                    "appointment_no": "নিয়োগ নং",
+                    "name": "নাম",
+                    "date": "তারিখ",
+                    "time": "সময়",
+                    "type": "টাইপ",
+                    "amount": "পরিমাণ",
+                    "p_Status": "পি-স্থিতি",
+                    "status": "স্ট্যাটাস",
+                    "label": "কর্ম",
+                    "price_symbol": "রুপি",
+                    "paid_text": "পেড",
+                    "unpaid_text": "আন পেইড",
+                    "appointment_status": {
+                        "pending": "বিচারাধীন",
+                        "accepted": "গৃহীত",
+                        "completed": "সম্পন্ন",
+                        "cancel": "বাতিল করুন"
+                    }
+                },
+                "button": {
+                    "view_details": "বিস্তারিত দেখুন",
+                    "accept": "গ্রহণ করুন",
+                    "reject": "প্রত্যাখ্যান করুন"
+                }
+            }
+        }
+    },
+    "appointment_detail": {
+        "main_title": "অ্যাপয়েন্টমেন্ট লগ",
+        "sub_heading": "পরামর্শদাতা তথ্য",
+        "heading": "অ্যাপয়েন্টমেন্ট তথ্য",
+        "user_info":{
+            "info":"ব্যবহারকারীর তথ্য",
+            "name":"নাম",
+            "city":"শহর",
+            "gender":"লিঙ্গ",
+            "member_status":"সদস্যের অবস্থা",
+            "registration_date":"নিবন্ধনের তারিখ"
+        },
+        "status": {
+            "label": "স্ট্যাটাস",
+            "pending": "বিচারাধীন",
+            "accepted": "গৃহীত",
+            "completed": "সম্পন্ন",
+            "cancel": "বাতিল করুন"
+        },
+        "btn": {
+            "accept": "গ্রহণ করুন",
+            "reject": "প্রত্যাখ্যান করুন",
+            "rate_now": "এখন রেট",
+            "chat_now": "এখন চ্যাট",
+            "chat_close": "চ্যাট বন্ধ করুন",
+            "select_rating": "রেটিং নির্বাচন করুন",
+            "comment": "মন্তব্য করুন",
+            "placeholder_comment": "এখানে মন্তব্য লিখুন",
+            "close": "বন্ধ",
+            "save": "পরিবর্তনগুলোর সংরক্ষন",
+            "mark_complete": "সম্পূর্ণ হিসাবে চিহ্নিত করুন",
+            "join_video_call": "ভিডিও কলে যোগ দিন",
+            "join_audio_call": "অডিও কলে যোগ দিন",
+            "leave_appointment": "অ্যাপয়েন্টমেন্ট ছেড়ে দিন"
+        },
+        "info": {
+            "heading": "অ্যাপয়েন্টমেন্ট তথ্য",
+            "date": " তারিখ",
+            "questions": "প্রশ্ন",
+            "time": "সময়",
+            "appointment_number": "নিয়োগ নং ",
+            "appointment_type": "অ্যাপয়েন্টমেন্টের ধরন:",
+            "document": "নথি:",
+            "attachment": "সংযুক্তি"
+        }
+    },
+    "mentor": {
+        "dashboard": {
+            "total_appointment": "মোট নিয়োগ",
+            "appointment_cancelled": "অ্যাপয়েন্টমেন্ট বাতিল করা হয়েছে",
+            "todays_appointment": "আজকের অ্যাপয়েন্টমেন্ট",
+            "view_all": "সব দেখ",
+            "paragraph_text1": "আপনার ড্যাশবোর্ডে স্বাগতম, আপনি আপনার মোট, বাতিল এবং আজকের অ্যাপয়েন্টমেন্ট দেখতে পারেন।",
+            "table": {
+                "questions": "প্রশ্ন ",
+                "date": "তারিখ",
+                "time": "সময়",
+                "type": "টাইপ",
+                "amount": "পরিমাণ",
+                "p_status": "পি-স্থিতি",
+                "action": "কর্ম",
+                "paid_text": "পেড",
+                "unpaid_text": "আন পেইড",
+                "view_details": "বিস্তারিত দেখুন"
+            },
+            "rating": {
+                "label": "রেটিং এবং পর্যালোচনা",
+                "total": "মোট"
+            }
+        },
+        "profile": {
+            "main_title": "আপনার তথ্য পুরো করুন",
+            "sub_heading": "আপনার সাধারণ তথ্য, শিক্ষা, অভিজ্ঞতা, দক্ষতা এবং ব্যাঙ্কের বিবরণ লিখুন।",
+            "incomplete_alert": "আপনার প্রোফাইল অসম্পূর্ণ. আপনার প্রোফাইল সম্পূর্ণ পূরণ করুন",
+            "under_review": "আপনার প্রোফাইল পর্যালোচনা করা হচ্ছে! এটি অনুমোদিত হলে আপনাকে অবহিত করা হবে।",
+            "sections": {
+                "step1": {
+                    "label": "ধাপ1",
+                    "sub_heading": "সাধারণ জ্ঞাতব্য"
+                },
+                "step2": {
+                    "label": "ধাপ2",
+                    "sub_heading": "শিক্ষাগত তথ্য"
+                },
+                "step3": {
+                    "label": "ধাপ3",
+                    "sub_heading": "আপনার দক্ষতা"
+                },
+                "step4": {
+                    "label": "ধাপ4",
+                    "sub_heading": "হিসাবের তথ্য"
+                }
+            },
+            "general": {
+                "title": "সাধারণ জ্ঞাতব্য",
+                "welcome": "স্বাগত",
+                "upload_file": "ফাইল আপলোড করুন",
+                "status": "অনলাইন স্ট্যাটাস",
+                "btn_continue": "চালিয়ে যান",
+                "btn_back": "পেছনে",
+                "btn_finish": "শেষ করুন",
+                "place_holder": {
+                    "first_name": "নামের প্রথম অংশ",
+                    "last_name": "নামের শেষাংশ",
+                    "email": "ইমেইল",
+                    "address": "ঠিকানা",
+                    "father_name": "বাবার নাম",
+                    "cnic": "সিএনআইসি",
+                    "gender": {
+                        "label": "লিংগ নির্বাচন",
+                        "male": "পুরুষ",
+                        "female": "মহিলা",
+                        "other": "অন্যান্য"
+                    },
+                    "select_religion": "ধর্ম নির্বাচন করুন",
+                    "date_of_birth": "জন্ম তারিখ",
+                    "occupation": "পেশা",
+                    "select_country": "দেশ নির্বাচন করুন",
+                    "Select_city": "শহর নির্বাচন করুন",
+                    "upload_your_image_here": "এখানে আপনার ছবি আপলোড করুন",
+                    "btn_label": "আপডেট",
+                    "about_yourself":"নিজেকে সম্পর্কে",
+                    "gender1":"লিঙ্গ",
+                    "country":"দেশ",
+                    "city":"শহর"
+                }
+            },
+            "education": {
+                "title": "শিক্ষাগত তথ্য",
+                "place_holder": {
+                    "Select_degree": "ডিগ্রী নির্বাচন করুন",
+                    "institution": "প্রতিষ্ঠান",
+                    "subject": "বিষয়",
+                    "year": "বছর",
+                    "image": "শিক্ষা শংসাপত্রের ছবি এখানে আপলোড করুন",
+                    "btn_label": "+ শিক্ষা যোগ করুন"
+                },
+                "table": {
+                    "title": "শিক্ষার তথ্য",
+                    "degree": "ডিগ্রী",
+                    "institution": "প্রতিষ্ঠান",
+                    "subject": "বিষয়",
+                    "certificate_image": "শংসাপত্রের ছবি",
+                    "Year": "বছর",
+                    "actions": "কর্ম"
+                }
+            },
+            "experience": {
+                "title": "অভিজ্ঞতা তথ্য",
+                "place_holder": {
+                    "company_name": "কোমপানির নাম",
+                    "from": "থেকে",
+                    "to": "প্রতি",
+                    "image": "এখানে অভিজ্ঞতা সার্টিফিকেট ইমেজ আপলোড করুন",
+                    "btn_label": "+ অভিজ্ঞতার তথ্য যোগ করুন"
+                },
+                "table": {
+                    "title": "অভিজ্ঞতার তথ্য",
+                    "company": "প্রতিষ্ঠান",
+                    "period_from": "থেকে সময়কাল",
+                    "period_to": "সময়কাল থেকে",
+                    "certificate_image": "শংসাপত্রের ছবি",
+                    "actions": "কর্ম"
+                }
+            },
+            "skill": {
+                "title": "পেশাগত দক্ষতা যোগ করুন",
+                "select_categories": "বিভাগ নির্বাচন করুন",
+                "select_subcategories": "উপশ্রেণী নির্বাচন করুন",
+                "btn_label": "+ দক্ষতা আপডেট করুন",
+                "reset_label": "রিসেট",
+                "skill_table": {
+                    "parent_category": "মূল বিভাগ",
+                    "sub_category": "সাব ক্যাটাগরি"
+                }
+            },
+            "account_information": {
+                "title": "ব্যাঙ্ক অ্যাকাউন্টের বিবরণ যোগ করুন",
+                "select_bank_name": "ব্যাঙ্কের নাম নির্বাচন করুন",
+                "account_holder_name": "হিসাব দাতার নাম",
+                "account_number": "হিসাব নাম্বার",
+                "btn_label": "+ হালনাগাদ"
+            }
+        }
+    },
+    "header_menu": {
+        "home": "বাড়ি",
+        "categories": "ক্যাটাগরি",
+        "about_us": "আমাদের সম্পর্কে",
+        "blogs": "ব্লগ",
+        "contact_us": "যোগাযোগ করুন",
+        "login": "প্রবেশ করুন",
+        "dropdown": {
+            "dashboard": "ড্যাশবোর্ড",
+            "profile": "প্রোফাইল",
+            "appointment_log": "অ্যাপয়েন্টমেন্ট লগ",
+            "generate_schedule": "সময়সূচী তৈরি করুন",
+            "blogs": "ব্লগ",
+            "wallet": "ওয়ালেট",
+            "logout": "প্রস্থান"
+        }
+    },
+    "footer": {
+        "main_title": "আমাদের সামাজিক মিডিয়া অনুসরণ করুন",
+        "any_queries": "কোন প্রশ্ন",
+        "mentee": {
+            "title": "মেন্টি",
+            "login": "প্রবেশ করুন",
+            "register": "নিবন্ধন",
+            "dashboard": "ড্যাশবোর্ড"
+        },
+        "consultant": {
+            "title": "পরামর্শদাতা",
+            "login": "প্রবেশ করুন",
+            "register": "নিবন্ধন",
+            "dashboard": "ড্যাশবোর্ড"
+        },
+        "about_company": {
+            "title": "কোম্পানী সম্পর্কে",
+            "payment": "অর্থপ্রদান",
+            "terms_&_conditions": "শর্তাবলী",
+            "policy": "নীতি",
+            "refunds_policy": "রিফান্ড নীতি",
+            "terms_for_consultant": "পরামর্শদাতা জন্য শর্তাবলী",
+            "terms_for_mentee": "এর জন্য শর্তাবলী মেন্টি"
+        },
+        "help": {
+            "title": "আমরা আপনাকে সাহায্য করতে এখানে আছি",
+            "field": {
+                "name": "নাম",
+                "email": "ইমেইল",
+                "subject": "বিষয়"
+            },
+            "btn_label": "জমা দিন"
+        }
+    },
+    "generate_scheduling": {
+        "main_title": "अपॉइंटमेंट स्लॉट जेनरेट करें",
+        "main_title1": "সময়সূচী তৈরি করুন",
+        "sub_heading": "आप अपनी उपलब्धता के अनुसार अपने स्लॉट तैयार कर सकते हैं। इन स्लॉट्स में संचार के 'समय में एक दिन' या 'सप्ताह में दिन' संचार (चैट, ऑडियो, वीडियो और भौतिक), और शुल्क संरचना शामिल हो सकते हैं।",
+        "tab": {
+            "main_title": "अनुसूची का प्रकार चुनें"
+        },
+        "side_labels":{
+            "chat":"প্রতি চ্যাট সময়সূচী",
+            "video":"ভিডিও পরামর্শ",
+            "audio":"অডিও পরামর্শ",
+            "onsite":"সাইটে পরামর্শ",
+            "home":"হোম পরামর্শ"
+        },
+        "chat": {
+            "main_title": "चैट परामर्श अनुसूची",
+            "sub_heading": "आप चैट मोड के लिए अपना परामर्श शुल्क निर्धारित कर सकते हैं।",
+            "label": "चैट के लिए शुल्क शुल्क चुनें",
+            "per_chat_charges": "प्रति चैट शुल्क",
+            "placeholder_fee": "चैट शुल्क दर्ज करें",
+            "placeholder_btn_update": "अद्यतन शुल्क"
+        },
+        "video": {
+            "tab_title": "वीडियो परामर्श शुल्क",
+            "main_title": " वीडियो परामर्श अनुसूची",
+            "sub_heading": "आप शेड्यूल बना सकते हैं कि आप एक हफ्ते में कितने दिन उपलब्ध रहेंगे या एक महीने में। आप अपना शुल्क शुल्क निर्धारित कर सकते हैं, और एक दिन में वीडियो परामर्श समय के लिए उपलब्ध हो सकते हैं।",
+            "select_day_heading": "अपने शेड्यूल के लिए दिन चुनें",
+            "label": "वीडियो परामर्श शुल्क दर्ज करें",
+            "fill_schedule_heading": "अपना वीडियो शेड्यूल पूरा करने और स्लॉट जेनरेट करने के लिए अपना फ़ील्ड भरें",
+            "slot_fee": "शुल्क दर्ज करें",
+            "select_day": "दिन चुनें",
+            "select_time_slot": "समय स्लॉट अंतराल का चयन करें",
+            "generated_slot": "जेनरेट किए गए स्लॉट",
+            "interval": "অন্তর"
+        },
+        "audio": {
+            "heading": "অডিও পরামর্শের সময়সূচী",
+            "tab_title": "ऑडियो परामर्श शुल्क",
+            "main_title": "ऑडियो परामर्श शुल्क दर्ज करें",
+            "sub_heading": "आप शेड्यूल बना सकते हैं कि आप एक हफ्ते में कितने दिन उपलब्ध रहेंगे या एक महीने में। आप अपना शुल्क शुल्क निर्धारित कर सकते हैं, और एक दिन में ऑडियो परामर्श समय के लिए उपलब्ध हो सकते हैं।",
+            "select_day_heading": "अपने शेड्यूल के लिए दिन चुनें",
+            "label": "वीडियो परामर्श शुल्क दर्ज करें",
+            "fill_schedule_heading": "अपना ऑडियो शेड्यूल पूरा करने और स्लॉट जेनरेट करने के लिए अपना फ़ील्ड भरें",
+            "slot_fee": "शुल्क दर्ज करें",
+            "select_day": "दिन चुनें",
+            "select_time_slot": "समय स्लॉट अंतराल का चयन करें",
+            "generated_slot": "जेनरेट किए गए स्लॉट"
+        },
+        "on_site": {
+            "heading": "অনসাইট বা ভিজিট শিডিউল",
+            "tab_title": "साइट पर परामर्श शुल्क",
+            "main_title": " साइट पर परामर्श शुल्क दर्ज करें",
+            "sub_heading": "আপনি এক সপ্তাহে বা এক মাসে কত দিনের জন্য উপলব্ধ থাকবেন কিনা তা আপনি সময়সূচী তৈরি করতে পারেন। আপনি আপনার ফি চার্জ সেট করতে পারেন, এবং দিনে অনসাইট পরামর্শের জন্য উপলব্ধ।",
+            "select_day_heading": "अपने शेड्यूल के लिए दिन चुनें",
+            "label": "वीडियो परामर्श शुल्क दर्ज करें",
+            "fill_schedule_heading": "अपना ऑन साइट शेड्यूल पूरा करने और स्लॉट जेनरेट करने के लिए अपना फ़ील्ड भरें",
+            "slot_fee": "शुल्क दर्ज करें",
+            "select_day": "दिन चुनें",
+            "select_time_slot": "समय स्लॉट अंतराल का चयन करें",
+            "generated_slot": "जेनरेट किए गए स्लॉट"
+        },
+        "home_visit": {
+            "heading": "হোম ভিজিট শিডিউল ",
+            "tab_title": "होम विजिट परामर्श शुल्क",
+            "main_title": "होम विज़िट परामर्श शुल्क दर्ज करें",
+            "sub_heading": "आप शेड्यूल बना सकते हैं कि आप एक हफ्ते में कितने दिन उपलब्ध रहेंगे या एक महीने में। आप होम कंसल्टेंसी सेवाओं के लिए अपना शुल्क शुल्क और एक दिन में मिलने की उपलब्धता निर्धारित कर सकते हैं।",
+            "select_day_heading": "अपने शेड्यूल के लिए दिन चुनें",
+            "label": "হোম-ভিজিট কনসালটেশন চার্জ লিখুন:",
+            "fill_schedule_heading": "अपना होम विज़िट शेड्यूल पूरा करने और स्लॉट जेनरेट करने के लिए अपना फ़ील्ड भरें",
+            "slot_fee": "शुल्क दर्ज करें",
+            "select_day": "दिन चुनें",
+            "select_time_slot": "समय स्लॉट अंतराल का चयन करें",
+            "generated_slot": "जेनरेट किए गए स्लॉट"
+        },
+        "btn": {
+            "update": "अद्यतन",
+            "submit": " प्रस्तुत करना",
+            "reset": "रीसेट",
+            "generate_slot": "स्लॉट उत्पन्न करें",
+            "submit_slot": "আপনার স্লট জমা দিন"
+        },
+        "days": {
+            "monday": "सोमवार",
+            "tuesday": "मंगलवार",
+            "wednesday": "बुधवार",
+            "thursday": "गुरूवार",
+            "friday": "शुक्रवार",
+            "saturday": "शनिवार",
+            "sunday": "रविवार",
+            "holiday": "छुट्टी",
+            "available": "उपलब्ध",
+            "btn_label": "अद्यतन"
+        },
+        "status": {
+            "available": "उपलब्ध",
+            "holiday": "छुट्टी"
+        },
+        "slots": {
+            "select_day": "दिन चुनें",
+            "label": "मध्यान्तर",
+            "time": "10 মিনিট"
+        },
+
+        "generated": {
+            "label": "जनरेटेड शेड्यूल",
+            "selected_day": "নির্বাচিত দিন",
+            "generated_slot": "জেনারেটেড স্লট",
+            "day": "दिन",
+            "fee": "शुल्क",
+            "appointment_type": "नियुक्ति प्रकार",
+            "audio_calling": "ऑडियो कॉलिंग",
+            "video_calling": "वीडियो कॉल करना",
+            "home_visit": "घर की यात्रा",
+            "on_site": "साइट पर",
+            "delete": "हटाएं"
+        }
+    },
+    "login": {
+        "tab_mentor": "পরামর্শদাতা",
+        "tab_mentee": "মেন্টি",
+        "login_btn": "প্রবেশ করুন",
+        "mentor": {
+            "heading": "একজন পরামর্শদাতা হিসেবে লগইন করুন",
+            "phone": "আপনার ফোন লিখুন",
+            "btn_otp": "OTP কোড পাঠান",
+            "resend": "আবার পাঠান",
+            "enter_otp": "নিচে ওটিপি কোড লিখুন "
+        },
+        "mentee": {
+            "heading": "একজন পরামর্শদাতা হিসেবে লগইন করুন",
+            "phone": "আপনার ফোন লিখুন",
+            "btn_otp": "OTP কোড পাঠান",
+            "resend": "আবার পাঠান",
+            "enter_otp": "নিচে ওটিপি কোড লিখুন"
+        }
+    },
+    "book_appointment": {
+        "title": "পরামর্শদাতা বিস্তারিত",
+        "sub_title": "আপনার পরামর্শক বিশদ দেখুন এবং আপনার অ্যাপয়েন্টমেন্ট বুক করার তারিখ এবং সময় নির্বাচন করুন",
+        "heading": "তারিখ এবং সময় নির্বাচন করুন",
+        "btn_date": "তারিখ নির্বাচন করুন",
+        "placeholder": "প্রথমে তারিখ নির্বাচন করুন",
+        "btn_continue": "চালিয়ে যান",
+        "appointment_type": "অ্যাপয়েন্টমেন্টের ধরন",
+        "available_time_slots": "উপলব্ধ সময় স্লট",
+        "chat": "চ্যাট",
+        "live": "লাইভ দেখান",
+        "chat_fee": "মধ্যে চ্যাট",
+        "live_fee": "চ্যাট",
+        "evening": "সন্ধ্যা",
+        "afternoon": "বিকেল",
+        "morning": "সকাল",
+        "slots_not_available": "স্লট উপলব্ধ নেই",
+        "question": {
+            "title": "আপনার প্রশ্ন জিজ্ঞাসা করুন",
+            "file_placeholder": "ফাইল আপলোড করুন",
+            "btn_select": " +ফাইল নির্বাচন",
+            "text_placeholder": "এখানে আপনার প্রশ্ন জিজ্ঞাসা করুন",
+            "btn_submit": "জমা দিন",
+            "btn_back": "পেছনে"
+        },
+        "make_payment": {
+            "label": "পেমেন্ট করুন",
+            "total_amount": "সর্বমোট পরিমাণ",
+            "pay_now": "এখন পরিশোধ করুন",
+            "pay_with_easypaisa": " Easypaisa দিয়ে পেমেন্ট করুন",
+            "enter_jazzcash_details": "Jazzcash বিস্তারিত লিখুন",
+            "pay_with_jazzcash": "Jazzcash দিয়ে পেমেন্ট করুন",
+            "pay_with_wallet": "ওয়ালেট দিয়ে পেমেন্ট করুন"
+        }
+    },
+    "thank_you": {
+        "first_title": "ধন্যবাদ",
+        "second_title": "আপনি!",
+        "sub_title": "আপনার অ্যাপয়েন্টমেন্ট তৈরি করা হয়েছে। নিয়োগ নং"
+    },
+    "Book_an_appointment": {
+        "heading1": "বুক একটি ",
+        "heading2": "অ্যাপয়েন্টমেন্ট",
+        "line_1": "সাহায্যের জন্য জিজ্ঞাসা করুন, 24/7",
+        "line_2": "সময় + টাকা বাঁচান!",
+        "line_3": "একজন বিশেষজ্ঞ মিনিটের মধ্যে উত্তর দেবেন ",
+        "line_4": "আলোচনা করুন এবং সমাধান পান",
+        "line_5": "রেট এবং প্রতিক্রিয়া লিখুন",
+        "last_text": "1.2 মিলিয়ন ডাউনলোড "
+    },
+    "wallet_log": {
+        "main_heading": "ওয়ালেট",
+        "sub_heading": "",
+        "current_wallet_balance": "বর্তমান ওয়ালেট ব্যালেন্স",
+        "price_symbol": "রুপি",
+        "btn_label_withdraw": "পরিমাণ প্রত্যাহার",
+        "btn_label_topup": "+ ওয়ালেটে টাকা যোগ করুন",
+        "table_heading": "সমস্ত লেনদেনের বিবরণ",
+        "placeholder_amount": "পরিমান লিখুন",
+        "placeholder_name": "কার্ড হোল্ডারের নাম",
+        "placeholder_number": "কার্ড নম্বর",
+        "placeholder_year": "বছর",
+        "placeholder_month": "মাস",
+        "placeholder_code": "সিভিভি কোড",
+        "label_method": "পেমেন্ট পদ্ধতি নির্বাচন করুন",
+        "label_detail": "কার্ডের বিবরণ লিখুন",
+        "withdraw_amount": {
+            "title": "পরিমাণ প্রত্যাহার",
+            "placeholder": {
+                "amount": "পরিমান লিখুন"
+            }
+        },
+        "topup": {
+            "title": "TopUP পরিমাণ",
+            "placeholder": {
+                "amount": "পরিমান লিখুন",
+                "mobile_no": "Jazzcash মোবাইল নম্বর লিখুন",
+                "cnic_digit": "জাতীয় পরিচয়পত্রের শেষ ৬ ডিজিট লিখুন"
+            }
+        },
+        "button": {
+            "close": "বন্ধ",
+            "submit": "পরিবর্তনগুলোর সংরক্ষন",
+            "success": "সফলতা",
+            "decline": "প্রত্যাখ্যান"
+        },
+        "column": {
+            "date": "তারিখ",
+            "time": "সময়",
+            "amount": "পরিমাণ",
+            "type": "টাইপ",
+            "status": "স্ট্যাটাস",
+            "payment_method": "মূল্যপরিশোধ পদ্ধতি"
+        }
+    },
+    "blog_detail": {
+        "main_heading": "ব্লগ শিরোনাম এখানে",
+        "sub_heading": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sapiente quod officiis sint excepturi nobis corrupti. Enim eius nesciunt officia quae debitis dolorem ab pariatur iure reprehenderit animi aliquam, dolores unde!",
+        "top_post": "শীর্ষ পোস্ট",
+        "see_also": "আরো দেখুন"
+    },
+    "public_mentor_view": {
+        "main_heading": "পরামর্শদাতা প্রোফাইল",
+        "sub_heading": ""
+    },
+    "all_consultant_page": {
+        "main_heading": "সমস্ত পরামর্শদাতা"
+    },
+    "mentor_profile_view": {
+        "title": "পরামর্শদাতা প্রোফাইল",
+        "sub_heading": "",
+        "personal_info": "ব্যাক্তিগত তথ্য",
+        "details": "বিস্তারিত",
+        "cnic": "জাতীয় পরিচয়পত্র নম্বর",
+        "religion": "ধর্ম",
+        "adress": " ঠিকানা",
+        "gender": "লিঙ্গ",
+        "member_status": "সদস্যের অবস্থা",
+        "city": "শহর",
+        "country": "দেশ",
+        "registered_date": "নিবন্ধিত তারিখ",
+        "education_details": "শিক্ষা বিস্তারিত",
+        "experiences_details": "অভিজ্ঞতার বিবরণ"
+    },
+    "consultant_blogs": {
+        "main_title": "পরামর্শদাতা ব্লগ",
+        "create": "সৃষ্টি",
+        "create_blog": "ব্লগ তৈরি করুন",
+        "close": "বন্ধ",
+        "yes": "হ্যাঁ",
+        "no": "না",
+        "fields":{
+            "title": "শিরোনাম",
+            "select_category": "বিভাগ নির্বাচন করুন",
+            "description" : "বর্ণনা",
+            "image" : "ছবি"
+        },
+        "column":{
+            "sr_no": "এসআর #",
+            "title": "শিরোনাম",
+            "category": "শ্রেণী",
+            "image": "ছবি",
+            "action": "কর্ম"
+        }
+    },
+    "consultant_blog_edit": {
+        "main_title": "ব্লগ বিস্তারিত",
+        "update": "হালনাগাদ",
+        "fields":{
+            "title": "শিরোনাম",
+            "select_category": "বিভাগ নির্বাচন করুন",
+            "description" : "বর্ণনা",
+            "image" : "ছবি"
+        }
+    }
+
+}

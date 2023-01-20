@@ -1,0 +1,39 @@
+version: '3.9'
+networks:
+    consultant:
+services:
+    laravel:
+        build:
+            context: ./
+            dockerfile: laravel.dockerfile
+            args:
+                - UID=${UID:-1000}
+                - GID=${GID:-1000}
+                - USER=${USER:-laravel}
+        image: ludsconsultant.azurecr.io/laravel
+        restart: unless-stopped
+        container_name: laravel
+        ports:
+            - 80:80
+        depends_on:
+            - mysql
+        networks:
+            - consultant
+    mysql:
+        image: mariadb:10.6
+        container_name: mysql
+        restart: unless-stopped
+        tty: true
+        ports:
+            - 3306:3306
+        environment:
+            MYSQL_DATABASE: ${DB_DATABASE}
+            MYSQL_USER: ${DB_USERNAME}
+            MYSQL_PASSWORD: ${DB_PASSWORD}
+            MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+            SERVICE_TAGS: dev
+            SERVICE_NAME: mysql
+        networks:
+            - consultant
+
+

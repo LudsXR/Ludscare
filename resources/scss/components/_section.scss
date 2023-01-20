@@ -1,0 +1,214 @@
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+p,
+    h1,
+    h2,
+    h3.h4,
+    h5,
+    h6 {
+        word-break: break-word;
+    }
+
+    .fa-file-pdf {
+        font-size: 25px;
+    }
+
+    ::-webkit-calendar-picker-indicator {
+        filter: invert(72%) sepia(81%) saturate(7454%) hue-rotate(13deg) brightness(114%) contrast(107%);
+    }
+
+    .shadow-c {
+        box-shadow: 0 0rem 1rem rgb(0 0 0 / 11%) !important;
+    }
+
+    .pt-80 {
+        padding-top: 80px;
+    }
+
+    .pb-80 {
+        padding-bottom: 80px;
+    }
+    .pb-150{
+        padding-bottom: 150px;
+    }
+
+    .w-31 {
+        width: 31%;
+    }
+
+    .w-125{
+        width: 125px !important;
+    }
+    .w-126{
+        width: 126px;
+    }
+
+    // .w-275{
+    //     width: 275px;
+    // }
+
+    .head {
+        font-size: 55px;
+    }
+
+    .sub-head {
+        font-size: 18px;
+    }
+
+    .content {
+        font-size: 18px
+    }
+
+    .fw-600 {
+        font-weight: 600;
+    }
+
+    .fw-500 {
+        font-weight: 500;
+    }
+
+    .fw-400 {
+        font-weight: 400;
+    }
+
+    .margin-neg {
+        margin-top: -12px;
+    }
+
+    .table{
+        text-transform: capitalize !important;
+    }
+
+    .selectdate {
+        cursor: pointer;
+    }
+
+    .text-light-muted{
+        color: #cbd0d4 !important;
+    }
+
+    @media screen and (max-width:991.5px) {
+        .head {
+            font-size: 40px;
+        }
+
+        br.responsive {
+            display: inline; // Show BR tag for narrow screens
+          }
+    }
+
+    @media screen and (max-width:767.5px) {
+        .head {
+            font-size: 36px;
+        }
+        .w-125{
+            width: 50% !important;
+            font-size: 16px;
+        }
+    }
+    @media screen and (max-width:344.5px) {
+        .w-125{
+            width: 50% !important;
+            font-size: 12px;
+        }
+    }
+
+    @media screen and (max-width:991.5px) {
+        .table{
+            width: 200%;
+        }
+    }
+    @media screen and (max-width:576.5px) {
+        .table{
+            width: 350%;
+        }
+    }
+
+    .vdatetime-popup__header {
+        background: $primary !important;
+    }
+
+    .vdatetime-calendar__month__day--selected > span > span, .vdatetime-calendar__month__day--selected:hover > span > span {
+        background: $secondary !important;
+    }
+
+    ::-webkit-scrollbar {
+        width: 6px;
+        height:4px
+      }
+      ::-webkit-scrollbar-track {
+        border-radius: 0px;
+        background-color: #ccc;
+      }
+      ::-webkit-scrollbar-thumb {
+        -webkit-border-radius: 10px;
+        border-radius: 20px;
+        background: $primary;
+      }
+/* Basic Styles */
+.fancy-button {
+    position: relative;
+    color: #fff;
+    border: 1px solid;
+    margin: 5px;
+    padding: 10px 25px;
+    text-decoration: none;
+    display: block;
+    outline: none;
+    line-height: 100%;
+    overflow: hidden;
+    height: 40px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .fancy-button:hover {
+    text-decoration: none;
+  }
+  .fancy-button .icon {
+    float: right;
+  }
+  .fancy-button.icon{
+  display: inline-block;
+  }
+  .fancy-button:active .icon,
+  .fancy-button:focus .icon {
+    -webkit-transform: scale(0.75);
+    -moz-transform: scale(0.75);
+    -o-transform: scale(0.75);
+    transform: scale(0.75);
+  }
+
+  .horizontal {
+    -webkit-transition: all 0.35s ease;
+    -moz-transition: all 0.35s ease;
+    -o-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+  }
+  .horizontal:hover .icon {
+    -webkit-animation: horizontal 0.75s infinite linear alternate;
+    -moz-animation: horizontal 0.75s infinite linear alternate;
+    -o-animation: horizontal 0.75s infinite linear alternate;
+    animation: horizontal 0.75s infinite linear alternate;
+  }
+  @keyframes horizontal {
+    0% {
+      margin-right: 0;
+    }
+    25% {
+      margin-right: -4px;
+    }
+    50% {
+      margin-right: 0;
+    }
+    75% {
+      margin-right: -4px;
+    }
+    100% {
+      margin-right: 0;
+    }
+  }

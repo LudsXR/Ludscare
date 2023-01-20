@@ -1,0 +1,118 @@
+.blog-section{
+    padding-bottom: 200px !important;
+    .mb-100{
+        margin-bottom: 100px;
+    }
+
+    .card{
+        h4,h3{
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        p{
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    }
+.img-wrap{
+    background: #e1e1e1;
+    height: 85px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        // max-height: 300px;
+        // height: 250px;
+        width: 100%;
+    }
+}
+}
+
+
+.blog-detail-section{
+    padding-bottom: 200px !important;
+    .p-c{
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+    h3{
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .img-wrap-blog-detail{
+        background: #e1e1e1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        height: 155px;
+    img{
+        // max-height: 250px;
+        // height: 250px;
+        width: 100%;
+    }
+    }
+    .img-wrap{
+        background: #e1e1e1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        height: 85px;
+    img{
+        // max-height: 250px;
+        // height: 250px;
+        width: 100%;
+    }
+    }
+
+    .divider {
+        display: flex;
+
+        &:before,
+        &:after {
+          content: "";
+          flex: 1;
+        }
+      }
+
+      // Base line
+      .line {
+        align-items: center;
+        margin: 3em -0em;
+
+        &:before,
+        &:after {
+          height: 2px;
+          margin: 0 1rem 0 .5rem;
+        }
+      }
+
+
+        .one-line {
+          &:before,
+          &:after {
+            background: #e6e6e6;
+          }
+        }
+
+        @media screen and (max-width:991.5px) {
+            .p-c{
+                padding-left: 0%;
+                padding-right: 0%;
+            }
+
+        }
+}
+
+
+
+
+

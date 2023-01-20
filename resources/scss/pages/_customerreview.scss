@@ -1,0 +1,186 @@
+.customer-review {
+    padding-bottom: 200px;
+    .review-label {
+        font-family: 'Poppins', sans-serif;
+        background: #f6f2f1;
+        border-radius: 5px;
+h6{
+    font-size: 18px;
+}
+p{
+    font-size: 14px;
+}
+        .satisfied {
+            img {
+                position: relative;
+                top: -32px;
+                margin-bottom: -32px;
+            }
+        }
+    }
+
+    .reviews {
+        .card {
+            background-color: #f6f2f1;
+            border-radius: 0;
+            height: 200px;
+            p{
+                display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            }
+            .customer-profile {
+                width: 50px;
+                    height: 50px;
+                    overflow: hidden;
+                    border-radius: 50%;
+                    background-color: white;
+                img {
+                    // transform: translateX(-10%);
+                  width: 100%;
+
+                }
+                @media screen and (max-width:576.5px) {
+                    img {
+                        height: 50px;  width: 50px;
+                    }
+                }
+            }
+            span{
+                font-size: 14px;
+            }
+        }
+    }
+}
+
+
+.happy-clients {
+    .head{
+        padding-left: 25% !important;
+        padding-right: 25% !important;
+    }
+    @media screen and (max-width:1399.5px) {
+        .head {
+            padding-left: 20% !important;
+            padding-right: 20% !important;
+        }
+    }
+    @media screen and (max-width:992.5px) {
+        .head {
+            padding-left: 0% !important;
+            padding-right: 0% !important;
+        }
+    }
+
+    p:nth-of-type(1) {
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+
+    .happy-clients-card {
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+
+        img{
+            height: 345px;
+        }
+
+        .card {
+            width: fit-content;
+            position: relative;
+            right: -38px;
+            width: 50%;
+            z-index: 99;
+            top: -32px;
+            height: 340px;
+            display: flex;
+            justify-content: center;
+            // align-items: center;
+
+
+            p::before {
+                font-family: "Font Awesome 6 Free";
+                content: "\f10d";
+                display: flex;
+                padding-right: 3px;
+                vertical-align: middle;
+                font-weight: 900;
+                color: rgba(94, 95, 150, 255);
+                font-size: 50px;
+            }
+
+            p::after {
+                font-family: "Font Awesome 6 Free";
+                content: "\f10e";
+                display: flex;
+                padding-right: 3px;
+                vertical-align: middle;
+                font-weight: 900;
+                justify-content: flex-end;
+                color: rgba(94, 95, 150, 255);
+                font-size: 50px;
+            }
+            .text-clients{
+                span{
+                    display: -webkit-box;
+                    -webkit-line-clamp: 5;
+                    -webkit-box-orient: vertical;
+                    overflow: hidden;
+                }
+            }
+
+        }
+        @media screen and (max-width:1200px) {
+            .card{
+                width: 60%;
+                top: -32px;
+            }
+
+        }
+        // @media screen and (max-width:1200px) {
+        //     .card{
+        //         width: 100%;
+        //     }
+
+        // }
+        @media screen and (max-width:767.5px) {
+            .card{
+                right: 0;
+                width: 100%;
+            }
+        }
+
+    }
+    // @media screen and (max-width:1399.5px) {
+    //     h1:nth-child(1) {
+    //         padding-left: 23%;
+    //         padding-right: 23%;
+    //     }
+    // }
+    @media screen and (max-width:991px) {
+        // h1:nth-child(1) {
+        //     padding-left: 0%;
+        //     padding-right: 0%;
+        // }
+
+        // p:nth-of-type(1) {
+        //     padding-left: 0%;
+        //     padding-right: 0%;
+        // }
+    }
+
+}
+
+@media screen and (max-width:576.5px) {
+    .customer-review{
+        padding-bottom: 239px !important;
+    }
+}
+@media screen and (max-width: 371.5px){
+    .customer-review{
+        padding-bottom: 260px !important;
+    }
+}

@@ -1,0 +1,143 @@
+.upload-btn-wrapper input[type=file]{
+    width: 100%;
+    cursor: pointer;
+    height: 100%;
+}
+.btn {
+    color: $white;
+}
+.btn:focus{
+    box-shadow: none !important;
+}
+
+// .btn-google,
+// .btn-apple {
+//     color: #fff;
+//     background-color: #08093f;
+//     border-color: transparent;
+//     padding: 15px 40px 5px 50px;
+//     position: relative;
+//     font-weight: 600;
+//     border-radius: 30px;
+// }
+
+// .btn-google:before {
+//     content: "";
+//     background-image: url(https://4.bp.blogspot.com/-52U3eP2JDM4/WSkIT1vbUxI/AAAAAAAArQA/iF1BeARv2To-2FGQU7V6UbNPivuv_lccACLcB/s30/nexus2cee_ic_launcher_play_store_new-1.png);
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     width: 30px;
+//     height: 30px;
+//     position: absolute;
+//     left: 20px;
+//     top: 50%;
+//     margin-top: -15px
+// }
+
+// .btn-apple:before {
+//     content: "";
+//     background-image: url('/assets/images/apple.png');
+//     background-size: cover;
+//     background-repeat: no-repeat;
+//     width: 25px;
+//     height: 30px;
+//     position: absolute;
+//     left: 20px;
+//     top: 50%;
+//     margin-top: -15px;
+// }
+
+// .btn-google:after,
+// .btn-apple:after {
+//     content: "GET IT ON";
+//     position: absolute;
+//     top: 5px;
+//     left: 50px;
+//     font-size: 10px;
+//     font-weight: 400;
+// }
+
+.btn-shift {
+    background: transparent;
+    color: $gray-600;
+
+    &.active {
+        background-color: $gray-300;
+        border: 1px solid $gray-500;
+    }
+}
+
+.btn-slots {
+    background: white;
+    color: $black;
+    border: 1px solid transparent;
+    border-radius: 9px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+
+    &.active {
+        background-color: #fff5e8;
+        border: 1px solid $secondary;
+        color: $secondary;
+    }
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+
+    .btn-upload {
+        border: 2px solid $gray-300;
+        color: $gray-600;
+        background-color: white;
+        padding: 8px 10px;
+        border-radius: 0.25rem;
+    }
+
+    input[type=file] {
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+    }
+}
+
+
+.btn-load-more {
+    margin-top: 50px;
+}
+
+.btn-graish {
+    background-color: #7F7F7F !important;
+}
+
+.btn-light-graish {
+    background-color: #9c9c9c !important;
+}
+
+.btn-dark-primary{
+    background-color: #1c293a;
+}
+
+
+.btn-close{
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVRIie2WSw6DMAwFKRKfK+dSlC5ojzcsiFTVEiU2TrLJ7N8bImwlXddolAaYgACMhuwYs5Ml+OJg0xQAA/CM2Q8wa8SBX9aUk8cPXkU2aMQDsIiCvycXJ03K3Ja7STVyd2mKPJv0Qv7mO/n+0gt5XqmQy3WBY19V0t7gfxgydk4Gqcj/ldK8w3UizbtOKcXuck2hm9xS5CKn4rVY5yEQC8o/fRoND3bWoxrczwcVbQAAAABJRU5ErkJggg==") !important;
+    background-repeat: no-repeat;
+}
+
+// @media screen and (max-width:991.5px) {
+
+//     .btn-google,
+//     .btn-apple {
+//         padding: 15px 20px 5px 50px;
+//     }
+// }
+
+// @media screen and (max-width:342.5px) {
+
+//     .btn-google,
+//     .btn-apple {
+//         padding: 15px 9px 5px 48px;
+//     }
+// }

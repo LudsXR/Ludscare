@@ -1,0 +1,53 @@
+.contact-section {
+    background: url('/assets/images/contactbg.png');
+    background-blend-mode: overlay;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.get-in-touch {
+    padding-bottom: 200px !important;
+    .contact-label {
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 26px;
+    }
+
+    .label-content {
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 22px;
+        color: $black;
+    }
+
+    .contact-form {
+        font-family: 'Ubuntu', sans-serif;
+        label {
+            font-size: 20px;
+        }
+
+        input {
+            background-color: #f0f0f0;
+            height: 48px ;
+        }
+
+        textarea{
+            background-color: #f0f0f0;
+        }
+
+        ::placeholder{
+            color: #9c9c9c;
+        }
+    }
+}
+
+@media screen and (max-width:576.5px) {
+    .get-in-touch{
+        padding-bottom: 239px !important;
+    }
+}
+
+@media screen and (max-width: 371.5px){
+    .get-in-touch{
+        padding-bottom: 260px !important;
+    }
+}

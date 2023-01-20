@@ -1,0 +1,142 @@
+.header-categories{
+background: url('/assets/images/Header.png');
+background-blend-mode: overlay;
+background-position: center center ;
+background-repeat: no-repeat;
+background-size: cover;
+padding: 125px 0;
+p{
+    font-size: 20px;
+    padding: 0 30%;
+}
+@media screen and (max-width:1200px) {
+    p{
+        padding: 0 27%;
+    }
+}
+@media screen and (max-width:991.5px) {
+    p{
+        font-size: 16px;
+        padding: 0 10%;
+    }
+    padding: 125px 0 105px 0;
+}
+@media screen and (max-width:767.5px) {
+    p{
+        padding: 0% 0%;
+    }
+    padding: 125px 0 75px 0;
+}
+.search-topic{
+    background-image: url('/assets/images/call-us-banner.png');
+    background-position: center center ;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+top: 206px;
+margin-top: -111px;
+border-radius: 5px;
+p{
+    font-size: 15px;
+}
+.search-icon{
+    position: relative;
+    h3{
+        position: absolute;
+        right: 18px;
+        top: -17px;
+        background: white;
+    }
+}
+
+}
+}
+
+
+.contact-header{
+    background: url('/assets/images/contactbanner.png');
+    background-blend-mode: overlay;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    p{
+        font-size: 20px;
+        padding: 0 30%;
+    }
+    @media screen and (max-width:1200px) {
+        p{
+            padding: 0 27%;
+        }
+    }
+    @media screen and (max-width:992.5px) {
+        p{
+            font-size: 16px;
+            padding: 0 10%;
+        }
+    }
+    @media screen and (max-width:767.5px) {
+        p{
+            padding: 0% 0%;
+        }
+    }
+    }
+
+    .about-header{
+        background: url('/assets/images/aboutbanner.png');
+        background-blend-mode: overlay;
+        background-position: center center ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 100px 0;
+        p{
+            font-size: 20px;
+            padding: 0 30%;
+        }
+        @media screen and (max-width:1200px) {
+            p{
+                padding: 0 27%;
+            }
+        }
+        @media screen and (max-width:992.5px) {
+            p{
+                font-size: 16px;
+                padding: 0 10%;
+            }
+        }
+        @media screen and (max-width:767.5px) {
+            p{
+                padding: 0% 0%;
+            }
+        }
+        }
+
+
+    .blog-header{
+        background: url('/assets/images/blogbanner.png');
+        background-blend-mode: overlay;
+        background-position: center center ;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 100px 0;
+        p{
+            font-size: 20px;
+            padding: 0 30%;
+        }
+        @media screen and (max-width:1200px) {
+            p{
+                padding: 0 27%;
+            }
+        }
+        @media screen and (max-width:992.5px) {
+            p{
+                font-size: 16px;
+                padding: 0 10%;
+            }
+        }
+        @media screen and (max-width:767.5px) {
+            p{
+                padding: 0% 0%;
+            }
+        }
+        }

@@ -1,0 +1,624 @@
+.book-appointment {
+    background: $secondary;
+
+    img.mobile {
+        position: relative;
+        top: -190px;
+        margin-bottom: -313px;
+    }
+
+    h2 {
+        font-size: 50px !important;
+    }
+
+    @media screen and (max-width: 991.5px) {
+        h2 {
+            font-size: 40px !important;
+        }
+
+        img.mobile {
+            top: -197px;
+            margin-bottom: -197px;
+        }
+    }
+
+    @media screen and (max-width: 767.5px) {
+        img.mobile {
+            position: relative;
+            top: -183px;
+            margin-bottom: -183px;
+        }
+    }
+}
+
+.appointment-screen {
+    background: url("/assets/images/audio-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+    // padding-bottom: 200px !important;
+
+    .vdatetime {
+        .selectdate::placeholder {
+            color: white !important;
+        }
+    }
+
+    /* HIDE RADIO */
+    [type="radio"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+
+    /* IMAGE STYLES */
+    [type="radio"] + img {
+        cursor: pointer;
+        border: 2px solid #dee2e6;
+        border-radius: 5px;
+    }
+
+    /* CHECKED STYLES */
+    [type="radio"]:checked + img {
+        border: 2px solid $secondary !important;
+    }
+
+    .location {
+        font-size: 14px;
+    }
+
+    .shape {
+        height: 120px;
+        width: 120px;
+        background: $secondary;
+        position: absolute;
+        top: -47px;
+        right: 9px;
+    }
+    .file-upload-div {
+        background-color: #dbdbdb;
+        width: 83%;
+        // padding: 100px 0px;
+        height: 250px;
+        top: -10px;
+        overflow: hidden;
+        img {
+            // max-width: 83%;
+            width: 100%;
+            // max-height: 250px;
+        }
+    }
+
+    .payment-card {
+        img {
+            height: 60px;
+            max-width: 97px;
+            object-fit: cover;
+        }
+    }
+
+    @media screen and (max-width: 1399.5px) {
+        .file-upload-div {
+            top: -16px;
+        }
+    }
+    @media screen and (max-width: 767.5px) {
+        .shape {
+            right: 53px;
+        }
+        .payment-card {
+            img {
+                height: 45px;
+            }
+        }
+    }
+    @media screen and (max-width: 576.5px) {
+        .file-upload-div {
+            top: -22px;
+            right: -22px;
+        }
+        .shape {
+            right: 9px;
+        }
+    }
+    @media screen and (max-width: 350.5px) {
+        .file-upload-div {
+            right: -14px;
+        }
+    }
+
+    .middle {
+        div {
+            position: absolute;
+            top: 41%;
+            left: 38%;
+        }
+    }
+
+    .appointment-pills {
+        .slots-overflow {
+            max-height: 250px;
+            overflow-y: scroll;
+        }
+        .nav-pills {
+            .nav-link {
+                border-radius: 0.5rem !important;
+                position: relative;
+                padding: 0.5rem;
+
+                &.active {
+                    background: $white;
+                    border: 2px solid $secondary;
+                    color: $secondary;
+
+                    &:after {
+                        content: "\f0da";
+                        position: absolute;
+                        right: -24px;
+                        font-size: 20px;
+                        font-family: "Font Awesome 5 Free";
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-weight: 900;
+                        top: 27%;
+                    }
+
+                    i {
+                        background-color: $secondary;
+                        padding: 8px;
+                        border-radius: 10px;
+                    }
+                }
+
+                background: $white;
+                border: 2px solid transparent;
+                color: $primary;
+
+                i {
+                    background-color: $primary;
+                    padding: 8px;
+                    border-radius: 10px;
+                }
+            }
+
+            i {
+                color: white;
+            }
+        }
+
+        .tab-content {
+            border: 1px solid $secondary;
+            border-radius: 10px;
+
+            h6 {
+                font-size: 18px;
+
+                span {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+    .form-card {
+        .form-control {
+            background-color: #e4e4e4 !important;
+        }
+
+        i {
+            right: 13px;
+            top: 15px;
+        }
+    }
+
+    .modal {
+        .modal-header {
+            i {
+                font-size: 61px;
+            }
+        }
+
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .payment-card {
+        .card {
+            &.active {
+                border: 2px solid $secondary !important;
+            }
+        }
+    }
+}
+
+.appointment-log {
+    background: url("/assets/images/audio-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px !important;
+    .table {
+        text-transform: capitalize !important;
+    }
+    .mentor-profile-tabs {
+        margin-bottom: 50px;
+        .w-20{
+            width: 20%;
+        }
+
+        .empty-border {
+            border-top: 3px solid $primary;
+            width: 6%;
+        }
+
+        button {
+            background-color: transparent;
+            position: relative;
+
+            .border-top-nav {
+                border-top: 3px solid #dbdbdb;
+
+                i {
+                    color: #dbdbdb;
+                    top: -10px;
+                    right: auto;
+                    left: auto;
+                }
+            }
+
+            .mentor-head {
+                position: relative;
+                right: auto;
+            }
+
+            // .border-top-nav2 {
+            //     border-top: 3px solid #dbdbdb;
+
+            //     i {
+            //         color: #dbdbdb;
+            //         top: -11px;
+            //         right: 50%;
+            //     }
+
+            // }
+
+            &.active {
+                background-color: transparent;
+
+                .border-top-nav {
+                    border-top: 3px solid $primary;
+
+                    i {
+                        color: $secondary;
+                    }
+                }
+            }
+
+            @media screen and (max-width: 991.5px) {
+                .mentor-head {
+                    font-size: 15px;
+                }
+            }
+
+            @media screen and (max-width: 767.5px) {
+                .border-top-nav {
+                    border-top: 3px solid #dbdbdb;
+
+                    i {
+                        color: #dbdbdb;
+                        top: -11px;
+                        right: 50%;
+                    }
+                }
+
+                .mentor-head {
+                    position: relative;
+                    right: auto;
+                    left: auto;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width:767.5px) {
+        .w-20 ,.w-25{
+            width: 100% !important;
+        }
+    }
+
+    label {
+        width: fit-content;
+    }
+
+    .search-icon {
+        i {
+            position: absolute;
+            top: -27px;
+            right: 13px;
+        }
+    }
+
+    .wrap-ques {
+        display: block;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        width: 100px;
+    }
+}
+
+.appointment-log-detail {
+    background: url("/assets/images/audio-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px !important;
+
+    .location {
+        font-size: 14px;
+    }
+
+    .mentee-info {
+        // margin-bottom: 150px;
+        .agora-video {
+            border: 32px solid $primary;
+        }
+
+        label {
+            font-weight: 500;
+            font-family: "Poppins", sans-serif;
+        }
+
+        .btn {
+            width: 200px;
+        }
+
+        .padding {
+            padding: 0 35px;
+
+            .profile-img-shape {
+                position: relative;
+                top: 50px;
+                margin-bottom: 50px;
+
+                .shape {
+                    height: 100px;
+                    width: 100px;
+                    background: $secondary;
+                    position: absolute;
+                    top: -26px;
+                    right: 8px;
+                }
+                .file-upload-div {
+                    background-color: #dbdbdb;
+                    width: 83%;
+                    // padding: 100px 0px;
+                    height: 250px;
+                    img {
+                        // max-width: 83%;
+                        width: auto;
+                        max-height: 250px;
+                    }
+                }
+            }
+        }
+
+        .border-end-c {
+            border-right: 2px solid $gray-300;
+        }
+    }
+
+    @media screen and (max-width: 1399.5px) {
+        .mentee-info {
+            .padding {
+                padding: 0 10px;
+            }
+        }
+    }
+
+    @media screen and (max-width: 768.5px) {
+        .mentee-info {
+            .padding {
+                padding: 0;
+            }
+
+            .border-end-c {
+                border-right: 0;
+            }
+        }
+    }
+
+    @media screen and (max-width: 576.5px) {
+        .shape {
+            right: -23px;
+        }
+    }
+    // .agora-video{
+    //     border: 28px solid $primary;
+    // }
+}
+
+.main.chat {
+    .chat-history {
+        padding-top: 10px;
+
+        ul {
+            padding-left: 5rem;
+            padding-right: 5rem;
+            @media screen and (max-width: 991.5px) {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+        }
+    }
+
+    .other-message {
+        background-color: #ececec;
+        padding: 20px 50px 20px 20px;
+        width: 100%;
+        margin-bottom: 10px;
+        border-radius: 10px;
+        color: #aaaaaa;
+        position: relative;
+        font-weight: 600;
+        margin-left: 2rem;
+        @media screen and (max-width: 576.5px) {
+            margin-left: 1rem;
+            padding: 10px;
+        }
+
+        &::after {
+            content: "";
+            position: absolute;
+            right: auto;
+            bottom: auto;
+            top: 8px;
+            left: -14px;
+            border: 10px solid transparent;
+            border-top: 10px solid #ececec;
+            border-left: none;
+            transform: rotate(-266deg);
+        }
+    }
+
+    .my-message {
+        background-color: $primary;
+        padding: 20px 20px 20px 50px;
+        width: 100%;
+        margin-bottom: 10px;
+        border-radius: 10px;
+        color: white;
+        float: right;
+        margin-right: 2rem;
+        position: relative;
+        font-weight: 600;
+        @media screen and (max-width: 576.5px) {
+            margin-right: 1rem;
+            padding: 10px;
+        }
+        &::after {
+            content: "";
+            position: absolute;
+            right: auto;
+            bottom: auto;
+            top: 8px;
+            right: -9px;
+            border: 10px solid transparent;
+            border-top: 10px solid rgb(2 4 10 / 98%);
+            border-left: none;
+        }
+    }
+
+    .chat-message {
+        @media screen and (max-width: 576.5px) {
+            border: 1px solid #e3dddd;
+        }
+    }
+    .fa-paperclip,
+    .fa-face-smile {
+        color: #d1cece !important;
+    }
+
+    .fa-face-smile {
+        font-size: 23px;
+    }
+
+    .fa-paper-plane {
+        font-size: 20px;
+    }
+
+    .fa-paperclip {
+        font-size: 18px;
+    }
+
+    .input-group {
+        background-color: #f3f3f3;
+        border-top: 1px solid white;
+
+        input {
+            // border-radius: 30px;
+            padding: 15px;
+            background-color: transparent;
+        }
+
+        .btn {
+            width: fit-content;
+            border-radius: 50%;
+            padding: 9px 20px;
+        }
+    }
+}
+
+#ratingModal {
+    textarea {
+        background-color: #ececec;
+    }
+
+    .rate-area {
+        float: left;
+        border-style: none;
+    }
+
+    .rate-area:not(:checked) > input {
+        position: absolute;
+        top: -9999px;
+        clip: rect(0, 0, 0, 0);
+    }
+
+    .rate-area:not(:checked) > label {
+        float: right;
+        width: 0.8em;
+        overflow: hidden;
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 180%;
+        color: lightgrey;
+    }
+
+    .rate-area:not(:checked) > label:before {
+        content: "★";
+    }
+
+    .rate-area > input:checked ~ label {
+        color: gold;
+    }
+
+    .rate-area:not(:checked) > label:hover,
+    .rate-area:not(:checked) > label:hover ~ label {
+        color: gold;
+    }
+
+    .rate-area > input:checked + label:hover,
+    .rate-area > input:checked + label:hover ~ label,
+    .rate-area > input:checked ~ label:hover,
+    .rate-area > input:checked ~ label:hover ~ label,
+    .rate-area > label:hover ~ input:checked ~ label {
+        color: gold;
+    }
+}
+
+@media screen and (max-width: 576.5px) {
+    .appointment-log,
+    .appointment-log-detail {
+        padding-bottom: 239px !important;
+    }
+}
+
+@media screen and (max-width: 371.5px) {
+    .appointment-log,
+    .appointment-log-detail {
+        padding-bottom: 260px !important;
+    }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+    transition: background-color 600000s 0s, color 600000s 0s !important;
+}
+input[data-autocompleted] {
+    background-color: transparent !important;
+}
+

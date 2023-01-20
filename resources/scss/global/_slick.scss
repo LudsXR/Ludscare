@@ -1,0 +1,150 @@
+.slick-list {
+    padding-bottom: 2rem !important;
+}
+
+.slick-dots {
+    bottom: 2px !important;
+
+    li {
+        display: none;
+        margin: 0 3px;
+
+        button {
+            // border: 2px solid $primary;
+            border-radius: 50%;
+            position: relative;
+
+            &::before {
+
+                color: transparent;
+                opacity: 1;
+                // top: 2px !important;
+                font-size: 13px;
+                left: -2px;
+                content: url(/assets/images/not-active.png) !important;
+            }
+        }
+
+        &.slick-active {
+            button {
+                &::before {
+                    color: $secondary;
+                    opacity: 1 !important;
+                    content: url(/assets/images/active.png) !important;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:576px){
+    .slick-dots{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+.hero {
+    .slick-dots {
+        display: flex !important;
+        justify-content: flex-start;
+        align-items: center;
+
+        &::after {
+            font-family: "Font Awesome 6 Free";
+            content: "\f061";
+            display: inline-block;
+            padding-left: 3px;
+            font-weight: bold;
+            color: $primary;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @media screen and (min-width:1400px) {
+            bottom: 30px !important;
+        }
+    }
+}
+
+.clients-slick {
+    .slick-list {
+        padding-bottom: 0 !important;
+    }
+
+    .slick-dots {
+        bottom: -2px !important;
+        // right: 23%;
+        position: relative;
+    }
+
+    @media screen and (max-width:1399.5px) {
+        .slick-dots {
+            bottom: 2px !important;
+        }
+    }
+
+    // @media screen and (max-width:1200.5px) {
+    //     .slick-dots{
+    //         right: 19%;
+    //         bottom: 23px;
+    //     }
+    // }
+    // @media screen and (max-width:1199.5px) {
+    //     .slick-dots{
+    //         right: 21%;
+    //         bottom: 2px !important;
+    //     }
+    // }
+
+    // @media screen and (max-width:991.5px) {
+    //     .slick-dots{
+    //         bottom: 2px !important;
+    //     }
+    // }
+
+    @media screen and (max-width:767.5px) {
+        .slick-dots {
+            right: 0;
+            bottom: 0 !important;
+        }
+    }
+}
+
+.reviews {
+    .slick-list {
+        padding: 10px 10px 25px 0 !important;
+    }
+}
+
+.slick-dots li {
+    display: inline-block;
+}
+// limit slick sliders dots to 3
+
+// .slick-dots li.slick-active,
+// .slick-dots li.slick-active+li,
+// .slick-dots li.slick-active+li+li {
+//     display: inline-block;
+// }
+
+// .slick-dots li:nth-last-child(1),
+// .slick-dots li:nth-last-child(2),
+// .slick-dots li:nth-last-child(3) {
+//     display: inline-block;
+// }
+
+// .slick-dots li.slick-active~li:nth-last-child(1),
+// .slick-dots li.slick-active~li:nth-last-child(2),
+// .slick-dots li.slick-active~li:nth-last-child(3) {
+//     display: none;
+// }
+
+// .slick-dots li.slick-active+li+li:nth-last-child(3),
+// .slick-dots li.slick-active+li+li:nth-last-child(2),
+// .slick-dots li.slick-active+li+li:nth-last-child(1),
+// .slick-dots li.slick-active+li:nth-last-child(3),
+// .slick-dots li.slick-active+li:nth-last-child(2),
+// .slick-dots li.slick-active+li:nth-last-child(1) {
+//     display: inline-block;
+// }

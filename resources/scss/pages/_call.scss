@@ -1,0 +1,108 @@
+.audio-call {
+    background: url('/assets/images/audio-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px;
+    .audio-width {
+        width: 85%;
+        padding: 70px 107px 35px;
+    }
+
+    .microphone {
+        position: relative;
+
+        img {
+            top: -49px;
+            right: 13px;
+            position: absolute;
+        }
+
+    }
+
+    @media screen and (max-width:992.5px) {
+        .audio-width {
+            width: 100%;
+            padding: 50px;
+        }
+    }
+
+    @media screen and (max-width:767.5px) {
+        .microphone {
+            img {
+                right: 50px;
+            }
+        }
+    }
+
+    @media screen and (max-width:575.5px) {
+        .microphone {
+            img {
+                right: 70px;
+            }
+        }
+    }
+
+    @media screen and (max-width:451px) {
+        .microphone {
+            img {
+                right: 0px;
+            }
+        }
+    }
+
+
+
+}
+
+.video-call{
+    background: url('/assets/images/audio-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 200px !important;
+    .video-width{
+        width: 85%;
+    }
+    @media screen and (max-width:992.5px) {
+        .video-width {
+            width: 100%;
+        }
+    }
+    @media screen and (max-width:767.5px) {
+        .video-width {
+            width: 100%;
+        }
+        .video-attender{
+height: 100px;
+        }
+    }
+}
+
+.video-icon {
+    background-color: white;
+    padding: 6px 10px;
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+.audio-icon {
+    background-color: white;
+    padding: 0px 11px;
+    border-radius: 50%;
+    font-size: 23px;
+}
+
+.comment-icon {
+    background-color: white;
+    padding: 6px 9px;
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+.call-end-icon {
+    background-color: #fe0000;
+    padding: 6px 11px;
+    border-radius: 50%;
+    font-size: 18px;
+}

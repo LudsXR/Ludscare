@@ -1,0 +1,45 @@
+
+.newsletter-section{
+    position: relative;
+    background-color: transparent;
+    z-index: 999;
+    top: -92px;
+    // margin-top: 100px;
+    margin-bottom: 0px;
+    .subscription-section{
+        background-image: url('/assets/images/newsletter-box.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: $white;
+        border-radius: 5px;
+        .form-newsletter {
+            input {
+                border: 3px solid transparent;
+                border-radius: 0;
+                outline: none;
+                height: 50px;
+                &::placeholder {
+                    color: $gray-600;
+                }
+            }
+
+            i {
+                right: 13px;
+                top: 17px;
+                color: $primary
+            }
+        }
+    }
+    @media screen and (max-width:576.5px) {
+        top: -139px;
+        // margin-top: 139px;
+        margin-bottom:-70px
+    }
+    @media screen and (max-width:371.5px) {
+        top: -160px;
+        // margin-top: 160px;
+        margin-bottom:-90px
+    }
+}
+
+
