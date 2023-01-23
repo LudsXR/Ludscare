@@ -1,3 +1,4 @@
+
 # ====== Front Build ======
 FROM node:lts-alpine as front-build
 
@@ -22,4 +23,12 @@ COPY --chown=application:application --from=front-build /app /app
 # Instalando as dependências do laravel
 RUN composer install --ignore-platform-reqs
 
+#======= User Config ======
+RUN useradd -ms /bin/bash admin
+RUN chown -R admin:admin /app
+RUN chmod 755 /app
+USER admin
+
 EXPOSE 80
+
+
